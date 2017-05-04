@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\xml\\livewallpaper.xml",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\xml\\livewallpaper.xml"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\livewallpaper.xml",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\xml\\livewallpaper.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\xml\\livewallpaper.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\xml\\livewallpaper.xml"
+    }
+]

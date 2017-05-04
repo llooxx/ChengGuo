@@ -1,0 +1,68 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '25.0.0'//不要改这个
+
+    defaultConfig {
+        applicationId "com.chengmeng"
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 10201
+        versionName "1.2.1"
+        //a.b.c,0a.0b.0c,0a0b0c,就是按照两位格式化，首位的0省略
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    lintOptions{
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+dependencies {
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'eu.the4thfloor.volley:com.android.volley:2015.05.28'
+    compile 'com.joooonho:selectableroundedimageview:1.0.1'
+    //old
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/fastjson-1.2.6.jar')
+    compile files('libs/httpmime-4.1.2.jar')
+    compile files('libs/IndoorscapeAlbumPlugin.jar')
+    compile files('libs/MobCommons.jar')
+    compile files('libs/MobTools.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/SMSSDK-2.0.1.jar')
+    compile files('libs/umeng-analytics-v5.6.4.jar')
+    compile files('libs/umeng-fb-v5.4.0.jar')
+    compile files('libs/umeng-onlineconfig-v1.0.0.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/gson-2.3.1.jar')
+    compile files('libs/alipaySdk-20160223.jar')
+    compile files('libs/IMCore-1.9.5.jar')
+    compile files('libs/openim1.9.5.jar')
+    compile files('libs/IMKit-1.9.5.jar')
+    compile files('libs/utdid4all-1.1.0.jar')
+    //new
+    compile files('libs/okio-0.6.1.jar')
+    compile files('libs/wire-runtime-1.7.0.jar')
+    compile files('libs/umeng_activeandroid.jar')
+    compile files('libs/umeng_community_sdk_core.jar')
+    compile files('libs/umeng_community_sdk_db.jar')
+    compile files('libs/Baidu_Mtj_3.7.3.93.jar')
+    compile files('libs/BDAutoUpdateSDK_20150605_V1.2.0.jar')
+    compile files('libs/need_lib.jar')
+    compile files('libs/patchupdate.jar')
+}

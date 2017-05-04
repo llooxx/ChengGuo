@@ -1,0 +1,1150 @@
+[
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_item_time.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_item_time.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_video.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_video.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_tab.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\main_tab.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_select_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_select_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_add_picture.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\layout_add_picture.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_doing_second.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\activity_doing_second.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_order_service_success.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_order_service_success.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ordering.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ordering.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_multi_image_player.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_multi_image_player.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tooltip_chatwindow_rec_funbar.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tooltip_chatwindow_rec_funbar.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\map_test.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\map_test.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_img_activity.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_img_activity.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_activity_send_at_msg_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_activity_send_at_msg_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem_in_tab_03_02.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\listitem_in_tab_03_02.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_input_conversation.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_input_conversation.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_contact_spinner.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_contact_spinner.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_alter_all_info.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_alter_all_info.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_custom_conversation_title_bar.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_custom_conversation_title_bar.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_fragment.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_fragment.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_title_list_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\dialog_title_list_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_order_detail_sale.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_order_detail_sale.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_dynamic_selectservice_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\post_dynamic_selectservice_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_friend_list_book_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_friend_list_book_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_item_focus_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_item_focus_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_audio_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_audio_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_at_message_receive_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_at_message_receive_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_buy_refund.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_buy_refund.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_my_collect.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_my_collect.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_smily_delete_button.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_smily_delete_button.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_input_conversation_audio.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_input_conversation_audio.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_user_verify.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_user_verify.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_default_chatting_title.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_default_chatting_title.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_fast_send_photo_popup_window.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_fast_send_photo_popup_window.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_for_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\layout_for_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_image_text_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_image_text_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_image_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_image_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_buy_comment_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_buy_comment_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_all_order_buy.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_all_order_buy.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_common_simple_title.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_common_simple_title.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_audio_flipper_to.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_audio_flipper_to.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\toolbar_back_title_button.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\toolbar_back_title_button.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_enlarge_enhanced_text_activity.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_enlarge_enhanced_text_activity.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_audio_flipper_from.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_audio_flipper_from.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_cloud_auto_reply_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_cloud_auto_reply_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_cloud_chat_pwd_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_cloud_chat_pwd_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_footer.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_service_detail_collecter.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_service_detail_collecter.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_custom_conversation_item_1.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_custom_conversation_item_1.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_alter_pass.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_alter_pass.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_contacts_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_contacts_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_service_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_service_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_smily_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_smily_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem_in_tab_03.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\listitem_in_tab_03.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_first_new_msg_notify.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_first_new_msg_notify.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_webview_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_webview_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_04.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_04.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_forget_menu.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_forget_menu.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_list_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\school_list_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_sale_ing.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_sale_ing.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_friend_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_friend_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_flow_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_flow_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_list_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_list_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_login.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_login.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_buy_order.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_buy_order.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_buy_finish.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_buy_finish.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_search_text.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_search_text.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\qianxun_toast.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\qianxun_toast.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_order_detail_buy.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_order_detail_buy.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_push_top.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_push_top.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_request.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_register3.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_register3.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_custom_tribe_msg_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_custom_tribe_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_text_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_text_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_custom_item_without_head.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_custom_item_without_head.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\bank_viewpager.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\bank_viewpager.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_message_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_message_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_list_dialog_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_list_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_smiley_indicator_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_smiley_indicator_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_item_sendstate.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_item_sendstate.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tooltip_chatwindow_rec_text.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tooltip_chatwindow_rec_text.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_input_contact.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_input_contact.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_forget_find2.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_forget_find2.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_about_me.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_about_me.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_edit.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\dialog_edit.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_topview.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_topview.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_push_other_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_push_other_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_multi_pick_album_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_multi_pick_album_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_activity_help.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_activity_help.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_service.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_service.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_sliding_tab_receive.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_sliding_tab_receive.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_video_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_video_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_pull_to_refresh_header.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_dir_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\list_dir_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_03_02.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_03_02.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_receive_state.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_receive_state.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\expandable_listitem.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\expandable_listitem.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_real_stu_check.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_real_stu_check.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_sell.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_sell.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_msg_unread_count.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_msg_unread_count.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_request_my.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_request_my.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_discuss_main.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_discuss_main.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_dynamic_selectservice.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\post_dynamic_selectservice.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tooltip_chatwindow_2.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tooltip_chatwindow_2.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_empty_head_imageview.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_empty_head_imageview.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_dynamic_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\post_dynamic_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_progress.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_menu_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\main_menu_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_push_other.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_push_other.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_gif.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_gif.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_post_service_add_picture.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\activity_post_service_add_picture.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_title_bar_shadow.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_title_bar_shadow.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_custom_msg.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_custom_msg.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_dynamic.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\post_dynamic.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_fragment.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_fragment.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_service_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_service_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\action_bar_title.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\action_bar_title.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_friend_list_book.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_friend_list_book.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_select_dialog_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_select_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_title_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\dialog_title_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\bank_viewpager_pager.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\bank_viewpager_pager.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_sale_refund.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_sale_refund.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\pay_external.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_order_service_fail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_order_service_fail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_enlarge_enhanced_text.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_enlarge_enhanced_text.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_download_image_progress.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_download_image_progress.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_firstrun.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_firstrun.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_set.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\main_set.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_fragment_send_at_message_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_fragment_send_at_message_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_custom_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_custom_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_03_popbutton_delect.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_03_popbutton_delect.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_fragment_question.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_fragment_question.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_personal.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_personal.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_push.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_push.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_imageview.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_imageview.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_phrase_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_phrase_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_left_name.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_left_name.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\mine_main.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\mine_main.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_conversation_custom_view_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_conversation_custom_view_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_dynamic_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_dynamic_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_05.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_05.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tribe_member_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tribe_member_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_real_name_check.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_real_name_check.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_left_right_head.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_left_right_head.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_flex_grid_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_flex_grid_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_audio_unread.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_audio_unread.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_cloud_pwd_settting_hint.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_cloud_pwd_settting_hint.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_web_browser.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_web_browser.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_custom_msg_layout_without_head.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_custom_msg_layout_without_head.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_schoolmsg.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\layout_schoolmsg.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_personal_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_personal_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_vertical_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_vertical_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_at_message_send_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_at_message_send_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_push_collect_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_push_collect_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\video_seekbar.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\video_seekbar.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_reply_item_image.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_reply_item_image.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_header.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_select_dialog_multichoice.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_multi_pick_gallery.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_multi_pick_gallery.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_top.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_top.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_discuss_main_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_discuss_main_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_picture.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_picture.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_sale_refuseorder.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_sale_refuseorder.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\video_button.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\video_button.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_at_message_receive_item_title.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_at_message_receive_item_title.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_smiley_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_smiley_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\common_datetime.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_03.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_03.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_friend_list_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_friend_list_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_fragment_contacts.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_fragment_contacts.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_add.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_add.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\cash_balance_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\cash_balance_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\grid_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_smily.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_smily.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_geo_message_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_geo_message_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_multi_pick_album.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_multi_pick_album.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_from.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_from.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_buy_comment.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_buy_comment.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_contacts_header_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_contacts_header_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_forget_message.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_forget_message.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_apply_details.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\activity_apply_details.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_title_self_state.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_title_self_state.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_sercuity_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\layout_sercuity_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_dialog_when_back.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\layout_dialog_when_back.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_discuss_main_top.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_discuss_main_top.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_check_code.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_check_code.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_01.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\tab_01.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_bottom.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\main_bottom.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_menu.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_request_ta.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_request_ta.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_request_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_request_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_fragment_at_msg_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_fragment_at_msg_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem_in_tab_03_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\listitem_in_tab_03_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\bdp_update_activity_confirm_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\bdp_update_activity_confirm_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_item_leftname.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_item_leftname.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_order_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_order_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\zoomimage.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\zoomimage.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\menu_frame.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_image_view.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_image_view.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_left_from.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_left_from.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_category_detail_back.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_category_detail_back.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tooltip_chatwindow.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tooltip_chatwindow.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_forget_find1.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_forget_find1.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_activity_at_msg_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_activity_at_msg_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_message_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_message_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_member_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_member_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_message.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_message.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_enter_chatting_room_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_enter_chatting_room_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_custom_conversation_item_2.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_custom_conversation_item_2.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\cash_balance_record.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\cash_balance_record.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\load_more_footer.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\load_more_footer.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_contact.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_contact.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_common_popup_bg.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_common_popup_bg.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_reply_item_text.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_reply_item_text.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_post_service.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_post_service.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_fast_send_photo_popup_window_cover.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_fast_send_photo_popup_window_cover.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_pull_to_refresh_header_1.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_pull_to_refresh_header_1.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_push_collect.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_push_collect.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_list.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_list.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tooltip_head.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tooltip_head.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_service_set_time.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\post_service_set_time.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_sale_order.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_sale_order.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\pay_main.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_send_at_msg_detail_contact_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_send_at_msg_detail_contact_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\cash_balance.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\cash_balance.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_all_user_sell.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_all_user_sell.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_map_show.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\dialog_map_show.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_top.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_top.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_topview_grid.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_topview_grid.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_grid.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_grid.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_register2.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_register2.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_image_detail_fragment.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_image_detail_fragment.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_sliding_tab_send.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_sliding_tab_send.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_personal_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_personal_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\task_completed.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\task_completed.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tribe_member_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tribe_member_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_homepage_show.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_homepage_show.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_activity_conversation.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_show_all_info.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_show_all_info.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_show_gif_progress.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_show_gif_progress.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_expand_view_pager_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_expand_view_pager_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_multi_pick_gallery_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_multi_pick_gallery_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_picture_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_picture_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_list_dialog_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_list_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_imageviewer.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_imageviewer.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_register1.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_register1.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_top.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\main_top.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_tooltip_popwindows.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_tooltip_popwindows.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_gif_smily_show_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_gif_smily_show_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_service_sort.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\post_service_sort.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_gif_smily_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_gif_smily_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_order_service.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_order_service.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_horizontal_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_horizontal_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_reply_item_audio.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_reply_item_audio.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\cash_balance_detail_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\cash_balance_detail_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_alert_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_request_fragment_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_request_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_main_top_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_main_top_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_smiley_detail_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_smiley_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_send_state.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_send_state.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_record_dialog.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_record_dialog.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_all_order_fragment.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_all_order_fragment.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_player.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_player.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_reply_bar_select.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_reply_bar_select.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\start_welcome.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\start_welcome.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_select_dialog_singlechoice.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_dir.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\list_dir.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\more_my_publish.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\more_my_publish.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\task_doing.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\task_doing.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem_in_applyd_details.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\listitem_in_applyd_details.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_alipay_check.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_alipay_check.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_category_detail_top.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_category_detail_top.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_conversation_custom_view_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_conversation_custom_view_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_template_audio_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_template_audio_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting_detail_smily_radio.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting_detail_smily_radio.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\wukong_tips_layout.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\wukong_tips_layout.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_category_detail.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_category_detail.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\msg_mine_request.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\msg_mine_request.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_pull_down_refresh_toast.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_pull_down_refresh_toast.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\demo_custom_chatting_title.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\demo_custom_chatting_title.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\umeng_fb_welcome_item.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\umeng_fb_welcome_item.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\sell_allorder_sale_finish.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\sell_allorder_sale_finish.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\aliwx_chatting.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\aliwx_chatting.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\ad_picture_content.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\ad_picture_content.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\layout\\slidingmenumain.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\layout\\slidingmenumain.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_send_button.xml",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\color\\color_send_button.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_send_button.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\color\\color_send_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\color\\click_text_bg.xml",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\color\\click_text_bg.xml"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_tab_text_color.xml",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\color\\aliwx_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_tab_text_color.xml",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\color\\aliwx_tab_text_color.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_send_button.xml",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\color\\color_send_button.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_tab_text_color.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\color\\aliwx_tab_text_color.xml"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\click_text_bg.xml",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\color\\click_text_bg.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\color\\click_text_bg.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\color\\click_text_bg.xml"
+    }
+]

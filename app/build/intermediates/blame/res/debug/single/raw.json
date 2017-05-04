@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\libs",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\libs"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_play_completed.mp3",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_play_completed.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_play_completed.mp3",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\aliwx_play_completed.mp3"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_sent.mp3",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\aliwx_sent.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_itemmatch.xml",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\aliwx_itemmatch.xml"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\incoming.mp3",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\incoming.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_play_completed.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_play_completed.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hangup_dudu.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\hangup_dudu.mp3"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\libs",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\libs"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\incoming.mp3",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\incoming.mp3"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_sent.mp3",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_sent.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\libs",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\libs"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\incoming.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\incoming.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_itemmatch.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_itemmatch.xml"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_itemmatch.xml",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_itemmatch.xml"
+    },
+    {
+        "merged": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hangup_dudu.mp3",
+        "source": "H:\\Space\\AndroidStudio\\GaoNeng\\app\\src\\main\\res\\raw\\hangup_dudu.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_sent.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_sent.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hangup_dudu.mp3",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\raw\\hangup_dudu.mp3"
+    }
+]

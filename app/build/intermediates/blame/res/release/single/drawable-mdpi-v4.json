@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\umeng_comm_not_found.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-mdpi\\umeng_comm_not_found.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\morentuf.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-mdpi\\morentuf.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\umeng_comm_topic_icon.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-mdpi\\umeng_comm_topic_icon.png"
+    }
+]

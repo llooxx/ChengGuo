@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\aliwx_itemmatch.xml",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_itemmatch.xml"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\incoming.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\incoming.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\hangup_dudu.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\hangup_dudu.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\aliwx_play_completed.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_play_completed.mp3"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\libs",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\libs"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\smssdk_pydb",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\raw\\aliwx_sent.mp3",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\raw\\aliwx_sent.mp3"
+    }
+]

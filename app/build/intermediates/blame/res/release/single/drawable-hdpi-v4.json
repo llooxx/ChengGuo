@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_godoor_selected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_godoor_selected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_06.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_06.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_2.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_2.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\no_resquest_img.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\no_resquest_img.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\slip_line_progress.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\slip_line_progress.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ad_change_layout.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\ad_change_layout.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_location.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_location.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\location_gray.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\location_gray.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\map_pin_64.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\map_pin_64.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\buy.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\buy.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\caiyiwu.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\caiyiwu.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_camera_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_camera_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_camera_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_camera_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_request_my.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_request_my.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_location_black.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_location_black.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_album.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_album.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\no_new.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\no_new.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\point.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\point.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\picture_unselected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_set.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_set.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_4.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_4.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_02.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_02.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\star102_fill.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\star102_fill.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\boy.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\boy.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\left_arrowhead.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\left_arrowhead.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_11.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_11.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\trample_btn.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\trample_btn.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_add_cancel.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_add_cancel.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_location.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_location.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\zulinyuan.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\zulinyuan.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_next_2.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_next_2.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_welcome_1.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\bg_welcome_1.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_iv_selected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_iv_selected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_post_selected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_post_selected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mascot_orange2.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mascot_orange2.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_img_load_ing.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_img_load_ing.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\love.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\love.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_ring.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_ring.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_01_btn_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_01_btn_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_sell.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_sell.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\lehuozu.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\lehuozu.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\reward_smallicon.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\reward_smallicon.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\school.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\school.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_welcome_3.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\bg_welcome_3.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_05_btn_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_05_btn_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_voice_default.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_default.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\green_right.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\green_right.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_add_normal.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_add_normal.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\slip_line_background.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\slip_line_background.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\slip_line_secondaryprogress.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\slip_line_secondaryprogress.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_04.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_04.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_next_4.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_next_4.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_13.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_13.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right_grey.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_grey.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\onlinecomputer.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\onlinecomputer.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mascot_orange.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mascot_orange.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\phone72.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\phone72.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_6.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_6.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_error.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\red_error.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_post_request.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\btn_post_request.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\clock_fail.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\clock_fail.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plane.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\plane.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\white_triangle.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\white_triangle.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_04_btn_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_04_btn_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_menu_alert.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_alert.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_homepage_collect_star.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mine_homepage_collect_star.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_post_dynamic.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\btn_post_dynamic.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\face_to_face.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\face_to_face.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_sducard.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_sducard.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_idcard.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_idcard.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_15.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_15.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_collect_people.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_collect_people.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ib_face.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\ib_face.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\alreadyorder.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\alreadyorder.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_05.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_05.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_see_gray.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_see_gray.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\today_canorder_clock.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\today_canorder_clock.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_02_btn_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_02_btn_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_14.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_14.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pictures_cancelled.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pictures_cancelled.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdp_update_logo.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\bdp_update_logo.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_publish.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_publish.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\head_icon_default.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\head_icon_default.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_online_selected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_online_selected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_5.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_5.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_personal_detail_person.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mine_personal_detail_person.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ad_btn_play.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\ad_btn_play.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\grayorange.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\grayorange.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_map.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_map.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msp_demo_title_bg.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\meizhuangdaren.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\meizhuangdaren.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\money_biao.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\money_biao.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_menu_friend.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_friend.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_phone.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_phone.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\clock_right.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\clock_right.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_welcome_2.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\bg_welcome_2.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_05_btn_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_05_btn_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_personal_detail_message.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mine_personal_detail_message.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_05.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_05.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pic_service_count.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pic_service_count.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_left_black.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\arrow_left_black.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\packaging.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\packaging.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_post_unselected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_post_unselected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_homepage_chat.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mine_homepage_chat.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_04.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_04.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dynamic_add_image.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\dynamic_add_image.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_buy.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_buy.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_online_unselected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_online_unselected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right_white.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_white.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\order_detail_head_icon.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\order_detail_head_icon.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\support_btn.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\support_btn.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_mail.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_mail.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\computer.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\computer.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\shangyejie.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\shangyejie.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_zhiding_selected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_zhiding_selected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pictures_selected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_line_more.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_line_more.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\heart_64px.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\heart_64px.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\little_orange.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\little_orange.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\star102.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\star102.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_07.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_07.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_img_load_fail.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_img_load_fail.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\alipay.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\alipay.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_first_use.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\bg_first_use.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_test_blue.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_test_blue.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xianzhibaobei.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\xianzhibaobei.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_1.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_1.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\identity_usual.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\identity_usual.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\sell_order_service_colock.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\sell_order_service_colock.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_03_btn_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_03_btn_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_03_btn_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_03_btn_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\shouhuisumiao.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\shouhuisumiao.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_09.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_09.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\refuseorderrightclik.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\refuseorderrightclik.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\security_checked.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\security_checked.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\start_btn_eye_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\start_btn_eye_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\menu_back_groung.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\menu_back_groung.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\start_btn_eye_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\start_btn_eye_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_03.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_03.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_message.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_message.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_iv_unselected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_iv_unselected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_menu_set.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_set.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_03.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_03.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_phone.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_phone.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_02_btn_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_02_btn_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\daibanpaotui.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\daibanpaotui.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\affordbusiness.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\affordbusiness.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_next_1.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_next_1.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_arrow_dark.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow_dark.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_10.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_10.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\girl.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_camera.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_camera.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_arrow_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_voice_pressed.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_pressed.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pic_service_time.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pic_service_time.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_zhiding_unselected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_zhiding_unselected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\menu_right_arrow.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\menu_right_arrow.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_3.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_3.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msp_demo_title.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\shougongdiy.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\shougongdiy.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\agree.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\agree.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_01_btn_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_01_btn_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_menu_logout.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_logout.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_post_sell.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\btn_post_sell.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xuebaketang.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\xuebaketang.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_07.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_07.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\smile.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\smile.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\identity_student.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\identity_student.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\alarmclock.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\alarmclock.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_01.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_01.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_request_ta.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_request_ta.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\peiwanyundong.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\peiwanyundong.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cash_yue.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\cash_yue.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gengduojingcai.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\gengduojingcai.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\little_orange2.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\little_orange2.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msg_bottom_line_face.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\msg_bottom_line_face.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_8.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_8.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_06.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_06.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xinlingyangba.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\xinlingyangba.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_08.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_08.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_left_white.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\arrow_left_white.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\refuseorderright.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\refuseorderright.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_04_btn_light.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\tab_04_btn_light.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_msg_sky.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\bg_msg_sky.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\love_s.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\love_s.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_orange_7.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_orange_7.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_love_gray.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_love_gray.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\three_line.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\three_line.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_homepage_title.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\mine_homepage_title.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\circle_red.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\circle_red.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\evaluate.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\evaluate.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pic_service_way.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\pic_service_way.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\location_right.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\location_right.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_next_3.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_next_3.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_verify.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_verify.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_12.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_12.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\lingshishuiguo.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\lingshishuiguo.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\sheyingps.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\sheyingps.jpg"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_02.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_02.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gaoneng_black.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\gaoneng_black.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\collect_star_click.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\collect_star_click.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wifi.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\wifi.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_top_08.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_top_08.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_my_collect.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\icon_my_collect.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_right_black.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_black.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\greeorange.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\greeorange.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\location_fail.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\location_fail.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\post_service_godoor_unselected.png",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\post_service_godoor_unselected.png"
+    },
+    {
+        "merged": "F:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome_01.jpg",
+        "source": "F:\\GaoNeng\\app\\src\\main\\res\\drawable-hdpi\\welcome_01.jpg"
+    }
+]

@@ -1,0 +1,936 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:2:1-503:12
+	package
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.joooonho:selectableroundedimageview:1.0.1] F:\GaoNeng\app\build\intermediates\exploded-aar\com.joooonho\selectableroundedimageview\1.0.1\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GaoNeng\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:29:22-81
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:30:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:31:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:37:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:38:5-73
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:38:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:39:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:40:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:41:5-85
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:41:22-82
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:43:5-71
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:43:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:44:5-75
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:44:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:46:5-68
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:46:22-65
+application
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:48:5-501:19
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:52:9-41
+	android:allowBackup
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:50:9-35
+	android:icon
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:51:9-45
+	android:largeHeap
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:53:9-33
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:54:9-40
+	tools:replace
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:55:9-52
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:49:9-48
+activity#com.szdd.qianxun.start.welcome.Welcome
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:56:9-68:20
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:57:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:63:27-74
+intent-filter#android.intent.action.CREATE_SHORTCUT
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:65:13-67:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:66:17-80
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:66:25-77
+activity#com.szdd.qianxun.main_main.MainMain
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:69:9-73:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:71:13-45
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:72:13-44
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:70:13-47
+activity#com.szdd.qianxun.main_main.MainTabAdd
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:74:9-78:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:77:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:76:13-45
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:75:13-49
+activity#com.szdd.qianxun.start.welcome.FirstRun
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:79:9-82:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:80:13-51
+activity#com.szdd.qianxun.start.login.Login
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:85:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:84:13-46
+activity#com.szdd.qianxun.start.register.Register1
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:87:9-90:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:89:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:88:13-53
+activity#com.szdd.qianxun.start.register.Register2
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:91:9-94:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:92:13-53
+activity#com.szdd.qianxun.start.register.Register3
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:95:9-98:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:97:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:96:13-53
+activity#com.szdd.qianxun.start.forget.ForgetMenu
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:99:9-103:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:101:13-45
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:100:13-52
+activity#com.szdd.qianxun.start.forget.ForgetMessage
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:104:9-106:48
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:106:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:105:13-55
+activity#com.szdd.qianxun.start.forget.ForgetFind1
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:107:9-110:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:109:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:108:13-53
+activity#com.szdd.qianxun.start.forget.ForgetFind2
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:111:9-114:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:113:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:112:13-53
+activity#com.szdd.qianxun.message.friend.FriendList
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:115:9-118:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:116:13-54
+activity#com.szdd.qianxun.message.friend.FriendListBook
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:119:9-122:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:121:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:120:13-58
+activity#com.szdd.qianxun.message.info.AlterAllInfo
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:123:9-126:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:126:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:125:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:124:13-54
+activity#com.szdd.qianxun.message.info.ShowAllInfo
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:127:9-131:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:129:13-45
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:130:13-44
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:128:13-53
+activity#com.szdd.qianxun.message.info.credit.RealNameCheck
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:132:9-135:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:134:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:133:13-62
+activity#com.szdd.qianxun.message.info.SchoolInfo
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:136:9-139:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:138:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:137:13-52
+activity#com.szdd.qianxun.message.info.credit.RealStudentCheck
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:140:9-143:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:142:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:141:13-65
+activity#com.szdd.qianxun.more.AlterPass
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:144:9-147:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:146:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:145:13-43
+activity#com.szdd.qianxun.more.UserVerify
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:148:9-151:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:150:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:149:13-44
+activity#com.szdd.qianxun.more.MyCollect
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:152:9-155:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:154:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:153:13-43
+activity#com.szdd.qianxun.more.MyPublish
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:156:9-159:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:159:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:158:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:157:13-43
+activity#com.szdd.qianxun.more.RequestMy
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:160:9-163:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:163:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:162:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:161:13-43
+activity#com.szdd.qianxun.more.RequestTa
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:164:9-167:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:167:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:166:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:165:13-43
+activity#com.szdd.qianxun.more.AboutMe
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:168:9-171:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:171:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:170:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:169:13-41
+activity#com.szdd.qianxun.more.MainSet
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:172:9-175:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:174:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:173:13-41
+activity#com.szdd.qianxun.tools.bitmap.MultiBitmap
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:176:9-180:69
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:179:13-49
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:178:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:180:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:177:13-53
+activity#com.szdd.qianxun.sell.category.SellCategoryDetail
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:181:9-184:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:184:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:183:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:182:13-61
+activity#com.szdd.qianxun.sell.orders.SellAllOrderBuy
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:185:9-188:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:188:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:187:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:186:13-56
+activity#com.szdd.qianxun.sell.orders.SellAllOrderSell
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:189:9-192:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:192:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:191:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:190:13-57
+activity#com.szdd.qianxun.sell.main.WebBrowser
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:193:9-196:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:196:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:195:13-45
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:194:13-49
+activity#com.szdd.qianxun.message.homepage.MineHomePage
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:197:9-200:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:200:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:199:13-44
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:198:13-58
+activity#com.szdd.qianxun.dynamic.PostDynamic
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:201:9-204:55
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:203:13-49
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:204:13-52
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:202:13-48
+activity#com.szdd.qianxun.dynamic.DynamicDetail
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:205:9-208:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:208:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:207:13-44
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:206:13-50
+activity#com.szdd.qianxun.bank.BigImageActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:209:9-212:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:211:13-49
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:212:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:210:13-50
+activity#com.szdd.qianxun.bank.MainTab_03_ApplySuccessActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:213:9-215:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:215:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:214:13-65
+activity#com.szdd.qianxun.bank.MainTab_03_RequestDetailActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:216:9-218:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:218:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:217:13-66
+activity#com.szdd.qianxun.bank.Location_MainTab_03Activity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:220:13-61
+activity#com.szdd.qianxun.sell.orders.detail.ServiceDetailActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:223:9-225:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:225:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:224:13-69
+activity#com.szdd.qianxun.sell.orders.detail.ServiceDetailCollecterActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:226:9-228:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:228:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:227:13-78
+activity#com.szdd.qianxun.request.Task_completed
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:229:9-231:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:230:13-51
+activity#com.szdd.qianxun.request.PostRequest
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:232:9-234:71
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:234:13-68
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:233:13-48
+activity#com.szdd.qianxun.request.ApplyDetails
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:235:9-237:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:237:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:236:13-49
+activity#com.szdd.qianxun.request.Activity_Task_doing
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:238:9-240:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:240:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:239:13-56
+activity#com.szdd.qianxun.request.Task_doing_Ta
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:241:9-243:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:243:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:242:13-50
+activity#com.szdd.qianxun.service.PostServiceActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:244:9-246:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:246:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:245:13-56
+activity#com.szdd.qianxun.service.PostServiceAddPictureActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:247:9-249:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:249:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:248:13-66
+activity#com.szdd.qianxun.service.SetTimeActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:250:9-61
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:250:19-58
+activity#com.szdd.qianxun.service.SellOrderDetailActivityBuy
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:251:9-253:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:253:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:252:13-63
+activity#com.szdd.qianxun.service.SellOrderDetailActivitySale
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:254:9-256:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:256:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:255:13-64
+activity#com.szdd.qianxun.service.ServiceSortActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:257:9-259:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:259:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:258:13-56
+activity#com.szdd.qianxun.service.OrderServiceActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:260:9-262:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:262:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:261:13-57
+activity#com.szdd.qianxun.advertise.VideoPlayer
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:263:9-265:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:265:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:264:13-50
+activity#com.szdd.qianxun.advertise.ZoomImage
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:266:9-268:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:268:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:267:13-48
+activity#com.szdd.qianxun.advertise.MoreImagesActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:269:9-271:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:271:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:270:13-57
+activity#com.szdd.qianxun.dynamic.SelectService
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:272:9-274:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:274:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:273:13-50
+activity#com.szdd.qianxun.dynamic.AddPictureActivityDynamic
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:275:9-277:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:277:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:276:13-62
+activity#com.szdd.qianxun.message.info.credit.AlipayCheck
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:278:9-280:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:280:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:279:13-60
+activity#com.szdd.qianxun.main_main.TestActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:281:9-283:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:283:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:282:13-51
+activity#com.szdd.qianxun.tools.alipay.PayDemoActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:284:9-286:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:286:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:285:13-57
+activity#com.szdd.qianxun.sell.CashBalanceActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:287:9-289:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:289:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:288:13-53
+activity#com.szdd.qianxun.sell.CashBalanceDetial
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:290:9-292:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:292:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:291:13-51
+activity#com.szdd.qianxun.sell.orders.sale.SaleRefuseOrder
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:293:9-295:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:295:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:294:13-61
+activity#com.szdd.qianxun.sell.orders.buy.BuyRefund
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:296:9-298:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:298:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:297:13-54
+activity#com.szdd.qianxun.sell.discuss.DiscussActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:299:9-301:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:301:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:300:13-57
+meta-data#UMENG_CHANNEL
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:304:9-306:39
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:306:13-36
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:305:13-41
+meta-data#APP_KEY
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:307:9-309:47
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:309:13-44
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:308:13-35
+meta-data#UMENG_APPKEY
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:310:9-312:52
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:312:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:311:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:313:9-315:53
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:315:13-50
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:314:13-48
+activity#com.szdd.qianxun.more.FeedBack
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:318:9-323:71
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:322:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:320:13-51
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:321:13-43
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:323:13-68
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:319:13-58
+activity#com.umeng.fb.HelpActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:325:9-329:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:329:13-49
+	android:label
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:327:13-51
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:328:13-43
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:326:13-53
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:332:9-334:56
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:334:13-53
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:333:13-52
+service#com.baidu.location.f
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:335:9-338:41
+	android:enabled
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:337:13-35
+	android:process
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:338:13-38
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:336:13-48
+meta-data#BDAPPID
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:340:9-342:39
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:342:13-36
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:341:13-35
+meta-data#BDAPPKEY
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:343:9-345:64
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:345:13-61
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:344:13-36
+activity#com.baidu.autoupdatesdk.ConfirmDialoigActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:347:9-351:73
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:350:13-49
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:349:13-37
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:351:13-70
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:348:13-74
+receiver#com.baidu.autoupdatesdk.receiver.BDBroadcastReceiver
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:352:9-361:20
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:354:13-37
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:353:13-80
+intent-filter#com.baidu.autoupdatesdk.ACTION_AS_DOWNLOAD_COMPLETE+com.baidu.autoupdatesdk.ACTION_DOWNLOAD_COMPLETE+com.baidu.autoupdatesdk.ACTION_NEW_AS+com.baidu.autoupdatesdk.ACTION_NEW_UPDATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:355:13-360:29
+action#com.baidu.autoupdatesdk.ACTION_NEW_UPDATE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:356:17-84
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:356:25-81
+action#com.baidu.autoupdatesdk.ACTION_DOWNLOAD_COMPLETE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:357:17-91
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:357:25-88
+action#com.baidu.autoupdatesdk.ACTION_NEW_AS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:358:17-80
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:358:25-77
+action#com.baidu.autoupdatesdk.ACTION_AS_DOWNLOAD_COMPLETE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:359:17-94
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:359:25-91
+meta-data#BaiduMobAd_STAT_ID
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:363:9-365:64
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:365:13-61
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:364:13-46
+meta-data#BaiduMobAd_CHANNEL
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:366:9-368:43
+	android:value
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:368:13-40
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:367:13-46
+receiver#com.baidu.bottom.service.BottomReceiver
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:370:9-376:20
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:370:19-73
+intent-filter#android.net.wifi.SCAN_RESULTS+android.net.wifi.STATE_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:371:13-375:29
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:372:17-78
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:372:25-75
+action#android.net.wifi.STATE_CHANGE
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:373:17-72
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:373:25-69
+action#android.net.wifi.SCAN_RESULTS
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:374:17-72
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:374:25-69
+activity#com.mob.tools.MobUIShell
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:378:9-382:70
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:381:13-49
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:382:13-67
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:380:13-74
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:379:13-52
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:383:9-387:50
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:387:13-47
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:386:13-37
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:385:13-74
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:384:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:388:9-392:50
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:392:13-47
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:391:13-37
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:390:13-74
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:389:13-60
+activity#com.alibaba.mobileim.ui.WxChattingActvity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:396:9-402:70
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:400:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:399:13-43
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:402:13-67
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:398:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:401:13-69
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:397:13-69
+activity#com.alibaba.mobileim.ui.WxConversationActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:405:9-410:69
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:409:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:408:13-43
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:407:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:410:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:406:13-74
+activity#com.alibaba.mobileim.ui.chat.MultiImageActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:413:9-419:55
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:417:13-47
+	android:hardwareAccelerated
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:415:13-48
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:416:13-43
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:419:13-52
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:418:13-64
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:414:13-75
+activity#com.alibaba.mobileim.kit.imageviewer.ShowImageActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:421:9-427:55
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:425:13-49
+	android:hardwareAccelerated
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:423:13-48
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:424:13-43
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:427:13-52
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:426:13-64
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:422:13-82
+activity#com.alibaba.mobileim.ui.multi.lightservice.MultiPickGalleryActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:429:9-433:69
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:432:13-49
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:431:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:433:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:430:13-95
+service#com.alibaba.mobileim.appmonitor.tiptool.TooltipService
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:436:9-438:40
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:438:13-37
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:437:13-82
+service#com.alibaba.tcms.service.TCMSService
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:441:9-444:46
+	android:process
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:444:13-43
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:443:13-36
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:442:13-64
+service#com.alibaba.tcms.service.ListenerService
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:447:9-449:39
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:449:13-36
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:448:13-68
+activity#com.alibaba.mobileim.kit.CloudPwdSettingHintActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:452:9-457:69
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:456:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:455:13-43
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:454:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:457:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:453:13-80
+activity#com.alibaba.mobileim.login.WaitProgresssActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:460:9-462:52
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:462:13-49
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:461:13-76
+activity#com.alibaba.mobileim.ui.atmessage.AtMsgListActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:465:9-470:69
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:469:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:468:13-44
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:467:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:470:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:466:13-79
+activity#com.alibaba.mobileim.ui.atmessage.SendAtMessageDetailActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:472:9-477:69
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:476:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:475:13-44
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:474:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:477:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:473:13-89
+activity#com.alibaba.mobileim.kit.chat.SelectTribeMemberActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:479:9-484:70
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:482:13-49
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:484:13-67
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:481:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:483:13-66
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:480:13-83
+activity#com.alibaba.mobileim.kit.chat.EnlargeChattingTextActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:486:9-491:70
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:489:13-49
+	android:windowSoftInputMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:491:13-67
+	android:configChanges
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:488:13-63
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:490:13-71
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:487:13-85
+activity#com.alibaba.tcms.service.MonitorActivity
+ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:493:9-499:64
+	android:process
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:497:13-43
+	android:screenOrientation
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:498:13-49
+	android:launchMode
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:496:13-48
+	android:exported
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:495:13-36
+	android:theme
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:499:13-61
+	android:name
+		ADDED from F:\GaoNeng\app\src\main\AndroidManifest.xml:494:13-68

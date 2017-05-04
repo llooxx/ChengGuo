@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\umeng_comm_topic_icon.png",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\drawable-mdpi\\umeng_comm_topic_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\morentuf.png",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\drawable-mdpi\\morentuf.png"
+    },
+    {
+        "merged": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\umeng_comm_not_found.png",
+        "source": "E:\\workspace\\workspaceAndroid\\ChengGuo\\app\\src\\main\\res\\drawable-mdpi\\umeng_comm_not_found.png"
+    }
+]
