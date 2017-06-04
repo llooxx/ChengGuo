@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:2:1-503:12
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:2:1-500:12
 	package
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml
@@ -99,7 +99,7 @@ ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:46:22-65
 application
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:48:5-501:19
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:48:5-498:19
 	android:label
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:52:9-41
 	android:allowBackup
@@ -526,411 +526,405 @@ ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.x
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:262:13-49
 	android:name
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:261:13-70
-activity#com.chengmeng.advertise.VideoPlayer
+activity#com.chengmeng.advertise.ZoomImage
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:263:9-265:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:265:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:264:13-63
-activity#com.chengmeng.advertise.ZoomImage
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:264:13-61
+activity#com.chengmeng.advertise.MoreImagesActivity
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:266:9-268:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:268:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:267:13-61
-activity#com.chengmeng.advertise.MoreImagesActivity
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:267:13-70
+activity#com.chengmeng.dynamic.SelectService
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:269:9-271:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:271:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:270:13-70
-activity#com.chengmeng.dynamic.SelectService
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:270:13-63
+activity#com.chengmeng.dynamic.AddPictureActivityDynamic
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:272:9-274:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:274:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:273:13-63
-activity#com.chengmeng.dynamic.AddPictureActivityDynamic
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:273:13-75
+activity#com.chengmeng.message.info.credit.AlipayCheck
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:275:9-277:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:277:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:276:13-75
-activity#com.chengmeng.message.info.credit.AlipayCheck
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:276:13-73
+activity#com.chengmeng.main_main.TestActivity
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:278:9-280:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:280:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:279:13-73
-activity#com.chengmeng.main_main.TestActivity
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:279:13-64
+activity#com.chengmeng.tools.alipay.PayDemoActivity
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:281:9-283:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:283:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:282:13-64
-activity#com.chengmeng.tools.alipay.PayDemoActivity
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:282:13-70
+activity#com.chengmeng.sell.CashBalanceActivity
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:284:9-286:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:286:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:285:13-70
-activity#com.chengmeng.sell.CashBalanceActivity
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:285:13-66
+activity#com.chengmeng.sell.CashBalanceDetial
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:287:9-289:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:289:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:288:13-66
-activity#com.chengmeng.sell.CashBalanceDetial
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:288:13-64
+activity#com.chengmeng.sell.orders.sale.SaleRefuseOrder
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:290:9-292:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:292:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:291:13-64
-activity#com.chengmeng.sell.orders.sale.SaleRefuseOrder
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:291:13-74
+activity#com.chengmeng.sell.orders.buy.BuyRefund
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:293:9-295:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:295:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:294:13-74
-activity#com.chengmeng.sell.orders.buy.BuyRefund
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:294:13-67
+activity#com.chengmeng.sell.discuss.DiscussActivity
 ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:296:9-298:52
 	android:screenOrientation
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:298:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:297:13-67
-activity#com.chengmeng.sell.discuss.DiscussActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:299:9-301:52
-	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:301:13-49
-	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:300:13-70
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:297:13-70
 meta-data#UMENG_CHANNEL
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:304:9-306:39
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:301:9-303:39
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:306:13-36
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:303:13-36
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:305:13-41
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:302:13-41
 meta-data#APP_KEY
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:307:9-309:47
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:304:9-306:47
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:309:13-44
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:306:13-44
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:308:13-35
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:305:13-35
 meta-data#UMENG_APPKEY
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:310:9-312:52
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:307:9-309:52
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:312:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:309:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:311:13-40
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:308:13-40
 meta-data#UMENG_MESSAGE_SECRET
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:313:9-315:53
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:310:9-312:53
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:315:13-50
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:312:13-50
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:314:13-48
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:311:13-48
 activity#com.chengmeng.more.FeedBack
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:318:9-323:71
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:315:9-320:71
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:322:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:319:13-49
 	android:label
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:320:13-51
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:317:13-51
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:321:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:318:13-43
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:323:13-68
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:320:13-68
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:319:13-55
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:316:13-55
 activity#com.umeng.fb.HelpActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:325:9-329:52
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:322:9-326:52
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:329:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:326:13-49
 	android:label
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:327:13-51
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:324:13-51
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:328:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:325:13-43
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:326:13-53
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:323:13-53
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:332:9-334:56
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:329:9-331:56
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:334:13-53
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:331:13-53
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:333:13-52
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:330:13-52
 service#com.baidu.location.f
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:335:9-338:41
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:332:9-335:41
 	android:enabled
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:337:13-35
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:334:13-35
 	android:process
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:338:13-38
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:335:13-38
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:336:13-48
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:333:13-48
 meta-data#BDAPPID
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:340:9-342:39
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:337:9-339:39
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:342:13-36
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:339:13-36
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:341:13-35
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:338:13-35
 meta-data#BDAPPKEY
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:343:9-345:64
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:340:9-342:64
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:345:13-61
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:342:13-61
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:344:13-36
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:341:13-36
 activity#com.baidu.autoupdatesdk.ConfirmDialoigActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:347:9-351:73
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:344:9-348:73
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:350:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:347:13-49
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:349:13-37
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:346:13-37
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:351:13-70
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:348:13-70
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:348:13-74
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:345:13-74
 receiver#com.baidu.autoupdatesdk.receiver.BDBroadcastReceiver
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:352:9-361:20
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:349:9-358:20
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:354:13-37
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:351:13-37
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:353:13-80
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:350:13-80
 intent-filter#com.baidu.autoupdatesdk.ACTION_AS_DOWNLOAD_COMPLETE+com.baidu.autoupdatesdk.ACTION_DOWNLOAD_COMPLETE+com.baidu.autoupdatesdk.ACTION_NEW_AS+com.baidu.autoupdatesdk.ACTION_NEW_UPDATE
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:355:13-360:29
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:352:13-357:29
 action#com.baidu.autoupdatesdk.ACTION_NEW_UPDATE
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:356:17-84
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:353:17-84
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:356:25-81
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:353:25-81
 action#com.baidu.autoupdatesdk.ACTION_DOWNLOAD_COMPLETE
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:357:17-91
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:354:17-91
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:357:25-88
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:354:25-88
 action#com.baidu.autoupdatesdk.ACTION_NEW_AS
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:358:17-80
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:355:17-80
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:358:25-77
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:355:25-77
 action#com.baidu.autoupdatesdk.ACTION_AS_DOWNLOAD_COMPLETE
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:359:17-94
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:356:17-94
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:359:25-91
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:356:25-91
 meta-data#BaiduMobAd_STAT_ID
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:363:9-365:64
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:360:9-362:64
 	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:365:13-61
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:362:13-61
+	android:name
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:361:13-46
+meta-data#BaiduMobAd_CHANNEL
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:363:9-365:43
+	android:value
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:365:13-40
 	android:name
 		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:364:13-46
-meta-data#BaiduMobAd_CHANNEL
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:366:9-368:43
-	android:value
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:368:13-40
-	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:367:13-46
 receiver#com.baidu.bottom.service.BottomReceiver
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:370:9-376:20
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:367:9-373:20
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:370:19-73
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:367:19-73
 intent-filter#android.net.wifi.SCAN_RESULTS+android.net.wifi.STATE_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:371:13-375:29
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:368:13-372:29
 action#android.net.wifi.WIFI_STATE_CHANGED
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:372:17-78
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:369:17-78
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:372:25-75
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:369:25-75
 action#android.net.wifi.STATE_CHANGE
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:373:17-72
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:370:17-72
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:373:25-69
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:370:25-69
 action#android.net.wifi.SCAN_RESULTS
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:374:17-72
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:371:17-72
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:374:25-69
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:371:25-69
 activity#com.mob.tools.MobUIShell
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:378:9-382:70
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:375:9-379:70
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:381:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:378:13-49
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:382:13-67
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:379:13-67
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:380:13-74
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:377:13-74
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:379:13-52
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:376:13-52
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:383:9-387:50
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:380:9-384:50
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:387:13-47
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:384:13-47
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:386:13-37
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:383:13-37
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:385:13-74
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:382:13-74
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:384:13-60
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:381:13-60
 activity#com.alipay.sdk.auth.AuthActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:388:9-392:50
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:385:9-389:50
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:392:13-47
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:389:13-47
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:391:13-37
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:388:13-37
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:390:13-74
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:387:13-74
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:389:13-60
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:386:13-60
 activity#com.alibaba.mobileim.ui.WxChattingActvity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:396:9-402:70
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:393:9-399:70
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:400:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:397:13-49
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:399:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:396:13-43
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:402:13-67
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:399:13-67
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:398:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:395:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:401:13-69
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:398:13-69
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:397:13-69
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:394:13-69
 activity#com.alibaba.mobileim.ui.WxConversationActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:405:9-410:69
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:402:9-407:69
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:409:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:406:13-49
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:408:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:405:13-43
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:407:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:404:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:410:13-66
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:407:13-66
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:406:13-74
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:403:13-74
 activity#com.alibaba.mobileim.ui.chat.MultiImageActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:413:9-419:55
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:410:9-416:55
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:417:13-47
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:414:13-47
 	android:hardwareAccelerated
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:415:13-48
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:412:13-48
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:416:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:413:13-43
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:419:13-52
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:416:13-52
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:418:13-64
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:415:13-64
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:414:13-75
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:411:13-75
 activity#com.alibaba.mobileim.kit.imageviewer.ShowImageActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:421:9-427:55
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:418:9-424:55
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:425:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:422:13-49
 	android:hardwareAccelerated
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:423:13-48
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:420:13-48
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:424:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:421:13-43
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:427:13-52
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:424:13-52
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:426:13-64
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:423:13-64
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:422:13-82
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:419:13-82
 activity#com.alibaba.mobileim.ui.multi.lightservice.MultiPickGalleryActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:429:9-433:69
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:426:9-430:69
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:432:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:429:13-49
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:431:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:428:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:433:13-66
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:430:13-66
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:430:13-95
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:427:13-95
 service#com.alibaba.mobileim.appmonitor.tiptool.TooltipService
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:436:9-438:40
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:433:9-435:40
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:438:13-37
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:435:13-37
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:437:13-82
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:434:13-82
 service#com.alibaba.tcms.service.TCMSService
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:441:9-444:46
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:438:9-441:46
 	android:process
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:444:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:441:13-43
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:443:13-36
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:440:13-36
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:442:13-64
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:439:13-64
 service#com.alibaba.tcms.service.ListenerService
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:447:9-449:39
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:444:9-446:39
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:449:13-36
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:446:13-36
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:448:13-68
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:445:13-68
 activity#com.alibaba.mobileim.kit.CloudPwdSettingHintActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:452:9-457:69
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:449:9-454:69
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:456:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:453:13-49
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:455:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:452:13-43
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:454:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:451:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:457:13-66
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:454:13-66
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:453:13-80
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:450:13-80
 activity#com.alibaba.mobileim.login.WaitProgresssActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:460:9-462:52
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:457:9-459:52
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:462:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:459:13-49
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:461:13-76
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:458:13-76
 activity#com.alibaba.mobileim.ui.atmessage.AtMsgListActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:465:9-470:69
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:462:9-467:69
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:469:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:466:13-49
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:468:13-44
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:465:13-44
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:467:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:464:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:470:13-66
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:467:13-66
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:466:13-79
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:463:13-79
 activity#com.alibaba.mobileim.ui.atmessage.SendAtMessageDetailActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:472:9-477:69
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:469:9-474:69
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:476:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:473:13-49
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:475:13-44
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:472:13-44
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:474:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:471:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:477:13-66
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:474:13-66
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:473:13-89
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:470:13-89
 activity#com.alibaba.mobileim.kit.chat.SelectTribeMemberActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:479:9-484:70
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:476:9-481:70
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:482:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:479:13-49
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:484:13-67
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:481:13-67
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:481:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:478:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:483:13-66
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:480:13-66
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:480:13-83
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:477:13-83
 activity#com.alibaba.mobileim.kit.chat.EnlargeChattingTextActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:486:9-491:70
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:483:9-488:70
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:489:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:486:13-49
 	android:windowSoftInputMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:491:13-67
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:488:13-67
 	android:configChanges
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:488:13-63
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:485:13-63
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:490:13-71
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:487:13-71
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:487:13-85
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:484:13-85
 activity#com.alibaba.tcms.service.MonitorActivity
-ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:493:9-499:64
+ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:490:9-496:64
 	android:process
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:497:13-43
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:494:13-43
 	android:screenOrientation
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:498:13-49
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:495:13-49
 	android:launchMode
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:496:13-48
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:493:13-48
 	android:exported
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:495:13-36
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:492:13-36
 	android:theme
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:499:13-61
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:496:13-61
 	android:name
-		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:494:13-68
+		ADDED from E:\workspace\workspaceAndroid\ChengGuo\app\src\main\AndroidManifest.xml:491:13-68

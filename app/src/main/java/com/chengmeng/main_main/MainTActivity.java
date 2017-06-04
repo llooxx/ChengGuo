@@ -37,63 +37,17 @@ public abstract class MainTActivity extends SlidingFragmentActivity {
             setTheme(android.R.style.Theme_Material_Light_NoActionBar);
     }
 
-//    protected void showMsgPush(boolean need_show) {
-//        LinearLayout layout = (LinearLayout) findViewById(R.id.top_msg_layout);
-//        if (!need_show) {
-//            layout.setVisibility(View.GONE);
-//            return;
-//        }
-//        Button btn_msg = (Button) findViewById(R.id.top_msg_msg);
-//        Button btn_push = (Button) findViewById(R.id.top_msg_push);
-//        btn_msg.setEnabled(false);
-//        btn_push.setEnabled(true);
-//        layout.setVisibility(View.VISIBLE);
-//    }
-
     // ////////允许子类调用的方法
     protected void setTopPosition(int position) {// 此处不要用全局变量
         TextView tv_title = (TextView) findViewById(R.id.top_text);
         String[] text_title = {"消息", "口袋掌柜", "附近需求", "成果", "我的"};
         if (position < 0 || position > 4) {
-            tv_title.setText("高能");
+            tv_title.setText("橙果");
             return;
         }
         tv_title.setText(text_title[position]);
         cur_page = position;
 
-        // int bg_color = 0;
-        // int text_color = 0;
-        //
-        // switch (position) {
-        // case 0:
-        // bg_color = getResources().getColor(R.color.topbar_bg_1);
-        // text_color = getResources().getColor(R.color.topbar_text_1);
-        // break;
-        // case 1:
-        // bg_color = getResources().getColor(R.color.topbar_bg_2);
-        // text_color = getResources().getColor(R.color.topbar_text_2);
-        // break;
-        // case 2:
-        // bg_color = getResources().getColor(R.color.topbar_bg_3);
-        // text_color = getResources().getColor(R.color.topbar_text_3);
-        // break;
-        // case 3:
-        // bg_color = getResources().getColor(R.color.topbar_bg_4);
-        // text_color = getResources().getColor(R.color.topbar_text_4);
-        // break;
-        // case 4:
-        // bg_color = getResources().getColor(R.color.topbar_bg_5);
-        // text_color = getResources().getColor(R.color.topbar_text_5);
-        // break;
-        // default:
-        // break;
-        // }
-        // if (bg_color == 0 || text_color == 0)
-        // return;
-        // LinearLayout top_layout = (LinearLayout)
-        // findViewById(R.id.top_layout);
-        // top_layout.setBackgroundColor(bg_color);
-        // tv_title.setTextColor(text_color);
     }
 
     protected void initHeadIcon(OnClickListener listener) {
@@ -109,31 +63,12 @@ public abstract class MainTActivity extends SlidingFragmentActivity {
         }
     }
 
-    protected void showMenuButton() {
-        Button top_menu = (Button) findViewById(R.id.top_menu);
-        top_menu.setVisibility(ImageButton.VISIBLE);
-        top_menu.setOnClickListener(new OnClickListener() {
-            public void onClick(View v) {
-                showContextMenu(v, cur_page);
-            }
-        });
-
-//        Button top_location = (Button) findViewById(R.id.top_location);
-//        top_location.setVisibility(ImageButton.VISIBLE);
-//        TextView top_location_text = (TextView) findViewById(R.id.top_location_text);
-//        top_location_text.setVisibility(ImageButton.VISIBLE);
-//        TextView top_title = (TextView) findViewById(R.id.top_text);
-//        top_title.setVisibility(ImageButton.VISIBLE);
-    }
 
     protected void hideMenuButton() {
-        Button top_menu = (Button) findViewById(R.id.top_menu);
-        top_menu.setVisibility(ImageButton.INVISIBLE);
-
 //        Button top_location = (Button) findViewById(R.id.top_location);
 //        top_location.setVisibility(ImageButton.INVISIBLE);
 //        TextView top_location_text = (TextView) findViewById(R.id.top_location_text);
-//        top_location_text.setVisibility(ImageButton.INVISIBLE);
+//        top_location_text.setVisibility(ImageButton.NVISIBLE);
 //        TextView top_title = (TextView) findViewById(R.id.top_text);
 //        top_title.setVisibility(ImageButton.INVISIBLE);
     }

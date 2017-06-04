@@ -50,7 +50,7 @@ public class MainMain extends MainTActivity implements OnClickListener {
     private MainTab_01 main_tab_01;
     private ArrayList<Fragment> fragment_list;
     private int msg_index = -1;
-    private TextView top_location_text, tv_count;
+    private TextView top_location_text;
     private boolean is_first_init;
 
     @Override
@@ -58,7 +58,6 @@ public class MainMain extends MainTActivity implements OnClickListener {
         setContentView(R.layout.main_tab);
 
         getMessage();
-        showMenuButton();
         initUM();
         initView();
         initListener();
@@ -121,9 +120,6 @@ public class MainMain extends MainTActivity implements OnClickListener {
 
         main_bottom = new MainBottom(this);
 
-        //消息数量显示
-        tv_count = (TextView) findViewById(R.id.top_count);
-        main_tab_01.setUnreadView(tv_count);
         //位置显示
         top_location_text = (TextView) findViewById(R.id.top_location_text);
     }
@@ -297,7 +293,7 @@ public class MainMain extends MainTActivity implements OnClickListener {
                 current_index = 1;
                 break;
             case R.id.tab_linear_03:
-                current_index = 2;
+                current_index = 0;
                 break;
             case R.id.tab_linear_04:
                 current_index = 3;
@@ -375,19 +371,9 @@ public class MainMain extends MainTActivity implements OnClickListener {
         main_bottom.setCurrentTab(current_index);// 底部刷新
         setTopPosition(current_index);// 顶部刷新
         //消息和推送
-        if (current_index == 0) {
-            if (last_index != 0) {//已经显示不能处理
-                hideMenuButton();
-                tv_count.setVisibility(View.INVISIBLE);
-                main_tab_01.setUnreadView(null);
-            }
-        } else {
             if (current_index == 4) {
                 main_tab_05.updateHead();
             }
-            showMenuButton();
-            main_tab_01.setUnreadView(tv_count);
-        }
 //        // 替换Fragment，这个每次View都会被销毁，需要重新onCreateView
 //        getSupportFragmentManager()
 //                .beginTransaction()

@@ -6,7 +6,7 @@
 
     <include layout="@layout/start_top" />
 
-    <com.szdd.qianxun.tools.views.slidepage.PagerSlidingTabStrip
+    <com.chengmeng.tools.views.slidepage.PagerSlidingTabStrip
         android:id="@+id/pagerStrip"
         android:layout_width="match_parent"
         android:layout_height="50dp"

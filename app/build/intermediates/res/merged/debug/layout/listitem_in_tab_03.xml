@@ -102,7 +102,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-                <com.szdd.qianxun.tools.views.SquareRelativeLayout
+                <com.chengmeng.tools.views.SquareRelativeLayout
                     android:id="@+id/layout_Square1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -118,9 +118,9 @@
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
                         android:visibility="invisible" />
-                </com.szdd.qianxun.tools.views.SquareRelativeLayout>
+                </com.chengmeng.tools.views.SquareRelativeLayout>
 
-                <com.szdd.qianxun.tools.views.SquareRelativeLayout
+                <com.chengmeng.tools.views.SquareRelativeLayout
                     android:id="@+id/layout_Square2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -134,9 +134,9 @@
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
                         android:visibility="invisible" />
-                </com.szdd.qianxun.tools.views.SquareRelativeLayout>
+                </com.chengmeng.tools.views.SquareRelativeLayout>
 
-                <com.szdd.qianxun.tools.views.SquareRelativeLayout
+                <com.chengmeng.tools.views.SquareRelativeLayout
                     android:id="@+id/layout_Square3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -150,7 +150,7 @@
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
                         android:visibility="invisible" />
-                </com.szdd.qianxun.tools.views.SquareRelativeLayout>
+                </com.chengmeng.tools.views.SquareRelativeLayout>
 
             </LinearLayout>
 

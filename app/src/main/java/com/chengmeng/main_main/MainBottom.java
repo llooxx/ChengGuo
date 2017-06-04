@@ -78,19 +78,14 @@ public class MainBottom {
         resetTextView();
         switch (position) {
             case 0:
-                tab_tv_01.setTextColor(activity.getResources().getColor(
+                tab_tv_03.setTextColor(activity.getResources().getColor(
                         R.color.tab_btn_light));
-                tab_iv_01.setImageResource(R.drawable.tab_01_btn_light);
+                tab_iv_03.setImageResource(R.drawable.tab_03_btn_light);
                 break;
             case 1:
                 tab_tv_02.setTextColor(activity.getResources().getColor(
                         R.color.tab_btn_light));
                 tab_iv_02.setImageResource(R.drawable.tab_02_btn_light);
-                break;
-            case 2:
-                tab_tv_03.setTextColor(activity.getResources().getColor(
-                        R.color.tab_btn_light));
-                tab_iv_03.setImageResource(R.drawable.tab_03_btn_light);
                 break;
             case 3:
                 tab_tv_04.setTextColor(activity.getResources().getColor(

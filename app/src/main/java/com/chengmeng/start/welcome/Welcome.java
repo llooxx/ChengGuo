@@ -55,6 +55,8 @@ public class Welcome extends NetActivity {
         setContentView(R.layout.start_welcome);
         ButterKnife.bind(this);
 
+        postRun();
+        /*
         getMessage();
         loadFirstImg();
         startNewThread();
@@ -64,6 +66,7 @@ public class Welcome extends NetActivity {
                 postRun();
             }
         }, 1000);// 时间可以慢慢调整
+        */
     }
 
     private void postRun() {

@@ -43,7 +43,7 @@
                 android:layout_height="90dp"
                 android:background="@color/white">
 
-                <com.szdd.qianxun.tools.views.RoundHeadView
+                <com.chengmeng.tools.views.RoundHeadView
                     android:id="@+id/ad_picture_user_head"
                     android:layout_width="60dp"
                     android:layout_height="60dp"
@@ -204,7 +204,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_centerVertical="true" />
 
-                    <com.szdd.qianxun.tools.views.RoundView
+                    <com.chengmeng.tools.views.RoundView
                         android:id="@+id/ad_picture_receiver_head"
                         android:layout_width="30dp"
                         android:layout_height="30dp"

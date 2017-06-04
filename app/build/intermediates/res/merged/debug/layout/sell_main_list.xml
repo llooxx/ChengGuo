@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.szdd.qianxun.tools.views.xlist.XListView
+    <com.chengmeng.tools.views.xlist.XListView
         android:id="@+id/sell_main_listview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

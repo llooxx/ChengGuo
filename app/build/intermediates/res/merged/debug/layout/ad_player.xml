@@ -6,7 +6,7 @@
     android:background="@color/black"
     android:orientation="vertical">
 
-    <com.szdd.qianxun.advertise.customview.CustomVideoView
+    <com.chengmeng.advertise.customview.CustomVideoView
         android:id="@+id/ad_video_player"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

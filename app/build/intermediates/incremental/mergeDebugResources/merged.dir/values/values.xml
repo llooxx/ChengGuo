@@ -952,7 +952,7 @@
     <string name="aliwx_ww_unread_noti2">%1$s发来%2$d条消息。</string>
     <string name="aliwx_ww_unread_noti3">%1$d个朋友发来%2$d条消息。</string>
     <string name="app_key">23352754</string>
-    <string name="app_name">高能</string>
+    <string name="app_name">橙果</string>
     <string name="bdp_update_action_download">立即升级</string>
     <string name="bdp_update_action_install">立即安装</string>
     <string name="bdp_update_as_action_cancel">取消</string>
@@ -1192,24 +1192,24 @@
     </style>
     <style name="AnimationFade">
 
-        <!-- PopupWindow左右弹出的效果 -->
+        
         <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
         <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
     </style>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light"/>
     <style name="AppTheme" parent="AppBaseTheme">
 
-        <!-- 无标题栏 -->
+        
         <item name="android:windowNoTitle">true</item>
-        <!-- 使用原版风格的Button -->
+        
         <item name="android:buttonStyle">@android:style/Widget.Button</item>
-        <!-- 使用默认的文本框光标 -->
+        
         <item name="android:textCursorDrawable">@null</item>
-        <!-- 使用原版风格的EditText -->
+        
         <item name="android:editTextBackground">@android:drawable/edit_text</item>
-        <!-- 使用淡入淡出动画 -->
+        
         <item name="android:windowAnimationStyle">@style/fadeActivityTheme</item>
-        <!-- 禁用标题栏下的阴影 -->
+        
         <item name="android:windowContentOverlay">@null</item>
 
         <item name="android:typeface">monospace</item>
@@ -1217,23 +1217,23 @@
     <style name="DarkTheme" parent="android:Theme.NoTitleBar"/>
     <style name="LightTheme" parent="AppBaseTheme">
 
-        <!-- 无标题栏 -->
+        
         <item name="android:windowNoTitle">true</item>
     </style>
     <style name="MyDialogTheme" parent="android:style/Theme.Dialog">
 
-        <!-- 背景颜色及透明程度 -->
+        
         <item name="android:windowBackground">@android:color/transparent</item>
-        <!-- 是否没有标题 -->
+        
         <item name="android:windowNoTitle">true</item>
-        <!-- 是否浮现在activity之上 -->
+        
         <item name="android:windowIsFloating">true</item>
-        <!-- 是否模糊 -->
+        
         <item name="android:backgroundDimEnabled">true</item>
     </style>
     <style name="MyMapDialogTheme" parent="@style/MyDialogTheme">
 
-        <!-- 是否模糊 -->
+        
         <item name="android:backgroundDimEnabled">false</item>
     </style>
     <style name="aliwx_My_Theme_Dialog_Alert">
@@ -1554,7 +1554,7 @@
         <item name="android:windowFrame">@null</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowIsTranslucent">true</item> 
-        <item name="android:windowNoTitle">true</item><!--除去title-->
+        <item name="android:windowNoTitle">true</item>
         <item name="android:windowContentOverlay">@null</item> 
         <item name="android:backgroundDimEnabled">true</item>
         <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
@@ -1575,13 +1575,13 @@
     </style>
     <style name="dynamic_dialog" parent="@android:style/Theme.Dialog">
         <item name="android:colorBackgroundCacheHint">@null</item>
-        <item name="android:windowFrame">@null</item><!--边框-->
-        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
-        <item name="android:windowIsTranslucent">true</item><!--半透明-->
-        <item name="android:windowNoTitle">true</item><!--无标题-->
-        <item name="android:background">@drawable/post_dynamic_dialog_shape</item><!--dialog背景样式-->
-        <item name="android:windowBackground">@color/transparent</item><!-- 背景透明 -->
-        <item name="android:backgroundDimEnabled">true</item><!--模糊-->
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@drawable/post_dynamic_dialog_shape</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
     </style>
     <style name="fadeActivityTheme" parent="@android:style/Animation.Activity">
         <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>

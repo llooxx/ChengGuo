@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.szdd.qianxun.advertise.customview.LoadMoreRecyclerView
+        <com.chengmeng.advertise.customview.LoadMoreRecyclerView
             android:id="@+id/ad_recyclerview_picture"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

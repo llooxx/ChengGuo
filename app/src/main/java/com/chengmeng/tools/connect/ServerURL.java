@@ -11,7 +11,7 @@ public class ServerURL {
     private static final boolean IS_TEST_MODE = true;// 是否为测试模式
     private static final boolean IS_SERVER_MODE = false;// 是否为后台测试模式
     private static final boolean IS_DISENABLE_MANAGER = false;// 是否禁用管理员
-    private static final String SERVER_IP = "http://120.27.25.61";
+    private static final String SERVER_IP = "http://121212";
     //服务器IP地址http://121.42.157.195:8080//new : http://120.27.25.61/
     private static String DYNAMIC_SERVER_IP = null;
 
@@ -181,29 +181,30 @@ public class ServerURL {
      * @return 服务器IP地址（http开头）
      */
     public static String getIP() {
-        if (DYNAMIC_SERVER_IP != null) {
-            return DYNAMIC_SERVER_IP;
-        }
-        // 使用在线参数的IP
-        String value = ParamTool.getParam("sever_ip");
-        if (value.equals("") || value.equals("0"))
-            DYNAMIC_SERVER_IP = SERVER_IP;
-        else
-            DYNAMIC_SERVER_IP = "http://" + value;
-        //本地IP，测试专用
-        if (isTest() && IS_SERVER_MODE) {
-            File ip_file = new File(Environment.getExternalStorageDirectory(),
-                    "GaoNengIP.txt");
-            if (ip_file.exists()) {
-                String ip_temp = FileTool.readFile(ip_file);
-                if (ip_temp != null && !ip_temp.equals(""))
-                    DYNAMIC_SERVER_IP = ip_temp.trim();
-            } else {
-                DYNAMIC_SERVER_IP = SERVER_IP;
-                FileTool.saveFile(ip_file, SERVER_IP);
-            }
-        }
-        return DYNAMIC_SERVER_IP;
+//        if (DYNAMIC_SERVER_IP != null) {
+//            return DYNAMIC_SERVER_IP;
+//        }
+//        // 使用在线参数的IP
+//        String value = ParamTool.getParam("sever_ip");
+//        if (value.equals("") || value.equals("0"))
+//            DYNAMIC_SERVER_IP = SERVER_IP;
+//        else
+//            DYNAMIC_SERVER_IP = "http://" + value;
+//        //本地IP，测试专用
+//        if (isTest() && IS_SERVER_MODE) {
+//            File ip_file = new File(Environment.getExternalStorageDirectory(),
+//                    "GaoNengIP.txt");
+//            if (ip_file.exists()) {
+//                String ip_temp = FileTool.readFile(ip_file);
+//                if (ip_temp != null && !ip_temp.equals(""))
+//                    DYNAMIC_SERVER_IP = ip_temp.trim();
+//            } else {
+//                DYNAMIC_SERVER_IP = SERVER_IP;
+//                FileTool.saveFile(ip_file, SERVER_IP);
+//            }
+//        }
+//        return DYNAMIC_SERVER_IP;
+        return SERVER_IP;
     }
 
     /**

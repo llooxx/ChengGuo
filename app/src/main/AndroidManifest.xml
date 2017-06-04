@@ -261,9 +261,6 @@
             android:name="com.chengmeng.service.OrderServiceActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.chengmeng.advertise.VideoPlayer"
-            android:screenOrientation="portrait" />
-        <activity
             android:name="com.chengmeng.advertise.ZoomImage"
             android:screenOrientation="portrait" />
         <activity

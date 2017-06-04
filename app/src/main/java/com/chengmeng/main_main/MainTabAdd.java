@@ -47,7 +47,6 @@ public class MainTabAdd extends Activity implements OnClickListener {
 
     private void initVIew() {
         Button btn_add_sell = (Button) findViewById(R.id.tab_add_btn_sell);
-        Button btn_all_request = (Button) findViewById(R.id.tab_add_btn_request);
         Button btn_add_show = (Button) findViewById(R.id.tab_add_btn_show);
         Button btn_cancel = (Button) findViewById(R.id.tab_add_btn_cancel);
 
@@ -59,12 +58,9 @@ public class MainTabAdd extends Activity implements OnClickListener {
 
         RelativeLayout l1 = (RelativeLayout) findViewById(R.id.layout1);
         RelativeLayout l2 = (RelativeLayout) findViewById(R.id.layout2);
-        RelativeLayout l3 = (RelativeLayout) findViewById(R.id.layout3);
 
         startAnimation(btn_add_sell, l1, true, 45f);
-        startAnimation(btn_all_request, l2, true, -45f);
-        startAnimation(btn_add_show, l3, false, 0);
-
+        startAnimation(btn_add_show, l2, true, -45f);
         FrameLayout layout = (FrameLayout) findViewById(R.id.tab_add_layout);
         btn_add_show.setOnClickListener(this);
         btn_cancel.setOnClickListener(this);
@@ -77,9 +73,6 @@ public class MainTabAdd extends Activity implements OnClickListener {
         switch (v.getId()) {
             case R.id.tab_add_btn_sell2:
                 startMyActivity(PostServiceActivity.class);
-                break;
-            case R.id.tab_add_btn_request2:
-                startMyActivity(PostRequest.class);
                 break;
             case R.id.tab_add_btn_show:
                 startMyActivity(PostDynamic.class);
@@ -154,7 +147,7 @@ public class MainTabAdd extends Activity implements OnClickListener {
 
     public void showButton() {
         Button btn_add_sell = (Button) findViewById(R.id.tab_add_btn_sell2);
-        Button btn_all_request = (Button) findViewById(R.id.tab_add_btn_request2);
+        Button btn_all_request = (Button) findViewById(R.id.tab_add_btn_show2);
         btn_add_sell.setVisibility(View.VISIBLE);
         btn_all_request.setVisibility(View.VISIBLE);
         btn_add_sell.setOnClickListener(this);

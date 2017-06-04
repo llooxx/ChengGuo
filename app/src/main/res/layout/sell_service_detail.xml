@@ -120,7 +120,7 @@
 
     </LinearLayout>
 
-    <com.szdd.qianxun.tools.views.SpringScrollView
+    <com.chengmeng.tools.views.SpringScrollView
         android:id="@+id/service_detail_sv_scrollview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -741,5 +741,5 @@
                     android:src="@drawable/arrow_right_black" />
             </LinearLayout>
         </LinearLayout>
-    </com.szdd.qianxun.tools.views.SpringScrollView>
+    </com.chengmeng.tools.views.SpringScrollView>
 </RelativeLayout>

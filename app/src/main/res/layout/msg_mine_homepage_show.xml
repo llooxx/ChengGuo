@@ -103,14 +103,14 @@
         </LinearLayout>
     </LinearLayout>
 
-    <com.szdd.qianxun.tools.views.slidepage.SimpleSwipeRefreshLayout
+    <com.chengmeng.tools.views.slidepage.SimpleSwipeRefreshLayout
         android:id="@+id/mine_homepage_swipelayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@id/mine_homepage_layout2"
         android:layout_below="@id/mine_homepage_layout1">
 
-        <com.szdd.qianxun.tools.views.slidepage.ScrollableLayout
+        <com.chengmeng.tools.views.slidepage.ScrollableLayout
             android:id="@+id/mine_homepage_sv"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -133,7 +133,7 @@
                     android:layout_gravity="center"
                     android:background="@drawable/mine_homepage_outwhite">
 
-                    <com.szdd.qianxun.tools.views.RoundView
+                    <com.chengmeng.tools.views.RoundView
                         android:id="@+id/mine_homepage_head"
                         android:layout_width="80dp"
                         android:layout_height="80dp"
@@ -314,6 +314,6 @@
                 android:id="@+id/mine_homepage_viewpager"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
-        </com.szdd.qianxun.tools.views.slidepage.ScrollableLayout>
-    </com.szdd.qianxun.tools.views.slidepage.SimpleSwipeRefreshLayout>
+        </com.chengmeng.tools.views.slidepage.ScrollableLayout>
+    </com.chengmeng.tools.views.slidepage.SimpleSwipeRefreshLayout>
 </RelativeLayout>

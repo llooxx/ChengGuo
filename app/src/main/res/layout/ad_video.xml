@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.szdd.qianxun.tools.views.xlist.XListView
+    <com.chengmeng.tools.views.xlist.XListView
         android:id="@+id/ad_gridview_video"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

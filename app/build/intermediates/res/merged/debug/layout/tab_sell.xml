@@ -5,12 +5,12 @@
     android:background="@color/white"
     android:orientation="vertical">
 
-    <com.szdd.qianxun.tools.views.slidepage.SimpleSwipeRefreshLayout
+    <com.chengmeng.tools.views.slidepage.SimpleSwipeRefreshLayout
         android:id="@+id/swipelayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.szdd.qianxun.tools.views.slidepage.ScrollableLayout
+        <com.chengmeng.tools.views.slidepage.ScrollableLayout
             android:id="@+id/scrollableLayout"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -21,7 +21,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
-            <com.szdd.qianxun.tools.views.slidepage.PagerSlidingTabStrip
+            <com.chengmeng.tools.views.slidepage.PagerSlidingTabStrip
                 android:id="@+id/pagerStrip"
                 android:layout_width="match_parent"
                 android:layout_height="46dp"
@@ -32,8 +32,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
-        </com.szdd.qianxun.tools.views.slidepage.ScrollableLayout>
+        </com.chengmeng.tools.views.slidepage.ScrollableLayout>
 
-    </com.szdd.qianxun.tools.views.slidepage.SimpleSwipeRefreshLayout>
+    </com.chengmeng.tools.views.slidepage.SimpleSwipeRefreshLayout>
 
 </LinearLayout>

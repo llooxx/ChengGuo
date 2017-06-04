@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class Welcome$$ViewBinder<T extends com.chengmeng.start.welcome.Welcome> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131428686, "field 'img0'");
-    target.img0 = finder.castView(view, 2131428686, "field 'img0'");
-    view = finder.findRequiredView(source, 2131428687, "field 'img1'");
-    target.img1 = finder.castView(view, 2131428687, "field 'img1'");
+    view = finder.findRequiredView(source, 2131494221, "field 'img0'");
+    target.img0 = finder.castView(view, 2131494221, "field 'img0'");
+    view = finder.findRequiredView(source, 2131494222, "field 'img1'");
+    target.img1 = finder.castView(view, 2131494222, "field 'img1'");
   }
 
   @Override public void unbind(T target) {

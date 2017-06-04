@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <com.szdd.qianxun.tools.views.xlist.XListView
+    <com.chengmeng.tools.views.xlist.XListView
         android:id="@+id/push_other_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -18,7 +18,7 @@
             android:textSize="@dimen/text_title" />
     </LinearLayout>
 
-    <com.szdd.qianxun.tools.views.xlist.XListView
+    <com.chengmeng.tools.views.xlist.XListView
         android:id="@+id/type_request_listview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
