@@ -105,11 +105,11 @@ public class SellAllOrderBuy extends FragmentTActivity {
                     // 初始化map数组对象
                     Map<String, Object> map = new HashMap<String, Object>();
                     map.put("id", jsonObject.getInt("id"));
-                    map.put("headview", jsonObject.getJSONObject("businessService").getJSONObject("user")
+                    map.put("headview", jsonObject.getJSONObject("user")
                             .getString("headIcon"));
-                    map.put("username", jsonObject.getJSONObject("businessService").getJSONObject("user")
+                    map.put("username", jsonObject.getJSONObject("user")
                             .getLong("username"));
-                    map.put("nickname", jsonObject.getJSONObject("businessService").getJSONObject("user")
+                    map.put("nickname", jsonObject.getJSONObject("user")
                             .getString("nickName"));
                     if (jsonObject.getJSONObject("businessService").getJSONArray("images").length() != 0)
                         map.put("describe", jsonObject.getJSONObject("businessService").getJSONArray("images").getJSONObject(0).getString("link"));
@@ -132,7 +132,7 @@ public class SellAllOrderBuy extends FragmentTActivity {
                         date = sdf.format(publish_time_long);
                     }
                     map.put("timecontent",date);
-                    map.put("connectcontent", jsonObject.getJSONObject("businessService").getJSONObject("user").getLong("username"));
+                    map.put("connectcontent", jsonObject.getJSONObject("user").getLong("username"));
                     map.put("charge",jsonObject.getInt("price"));
                     listitems.add(map);
                 } catch (org.json.JSONException e) {

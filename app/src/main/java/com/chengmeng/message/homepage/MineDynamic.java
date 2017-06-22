@@ -147,8 +147,7 @@ public class MineDynamic extends ScrollAbleFragment implements
 
             @Override
             public void onResponse(String response) {
-                if (response == null) showToast("网络请求失败");
-                else analysis(response);
+                analysis(response);
             }
 
             @Override

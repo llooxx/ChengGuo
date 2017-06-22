@@ -348,181 +348,182 @@
                 android:paddingLeft="10dp"
                 android:textColor="@color/dark_gray"
                 android:textSize="@dimen/text_small" />
+            <!--
+                       <LinearLayout
+                           android:id="@+id/tab05_ibtn_request_my"
+                           android:layout_width="match_parent"
+                           android:layout_height="35dp"
+                           android:background="@drawable/btn_bg_white_rect"
+                           android:orientation="horizontal">
 
-            <LinearLayout
-                android:id="@+id/tab05_ibtn_request_my"
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:background="@drawable/btn_bg_white_rect"
-                android:orientation="horizontal">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center_vertical"
-                    android:paddingLeft="10dp"
-                    android:text="我的需求"
-                    android:textColor="@color/dark_gray"
-                    android:textSize="@dimen/text_large" />
+                           <TextView
+                               android:layout_width="wrap_content"
+                               android:layout_height="match_parent"
+                               android:gravity="center_vertical"
+                               android:paddingLeft="10dp"
+                               android:text="我的需求"
+                               android:textColor="@color/dark_gray"
+                               android:textSize="@dimen/text_large" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:layout_weight="1" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:layout_weight="1" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:padding="8dp"
-                    android:src="@drawable/arrow_right_grey" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:padding="8dp"
+                               android:src="@drawable/arrow_right_grey" />
 
-            </LinearLayout>
+                       </LinearLayout>
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="1px"
-                android:background="@color/label_color" />
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="1px"
+                           android:background="@color/label_color" />
 
-            <LinearLayout
-                android:id="@+id/tab05_ibtn_request_ta"
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:background="@drawable/btn_bg_white_rect"
-                android:orientation="horizontal">
+                       <LinearLayout
+                           android:id="@+id/tab05_ibtn_request_ta"
+                           android:layout_width="match_parent"
+                           android:layout_height="35dp"
+                           android:background="@drawable/btn_bg_white_rect"
+                           android:orientation="horizontal">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center_vertical"
-                    android:paddingLeft="10dp"
-                    android:text="Ta的需求"
-                    android:textColor="@color/dark_gray"
-                    android:textSize="@dimen/text_large" />
+                           <TextView
+                               android:layout_width="wrap_content"
+                               android:layout_height="match_parent"
+                               android:gravity="center_vertical"
+                               android:paddingLeft="10dp"
+                               android:text="Ta的需求"
+                               android:textColor="@color/dark_gray"
+                               android:textSize="@dimen/text_large" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:layout_weight="1" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:layout_weight="1" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:padding="8dp"
-                    android:src="@drawable/arrow_right_grey" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:padding="8dp"
+                               android:src="@drawable/arrow_right_grey" />
 
-            </LinearLayout>
+                       </LinearLayout>
+            -->
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="10dp"
+                           android:background="@color/label_color"
+                           android:gravity="center_vertical"
+                           android:paddingLeft="10dp"
+                           android:textColor="@color/dark_gray"
+                           android:textSize="@dimen/text_small" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="10dp"
-                android:background="@color/label_color"
-                android:gravity="center_vertical"
-                android:paddingLeft="10dp"
-                android:textColor="@color/dark_gray"
-                android:textSize="@dimen/text_small" />
+                       <LinearLayout
+                           android:id="@+id/tab05_ibtn_verify"
+                           android:layout_width="match_parent"
+                           android:layout_height="35dp"
+                           android:background="@drawable/btn_bg_white_rect"
+                           android:orientation="horizontal">
 
-            <LinearLayout
-                android:id="@+id/tab05_ibtn_verify"
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:background="@drawable/btn_bg_white_rect"
-                android:orientation="horizontal">
+                           <TextView
+                               android:layout_width="wrap_content"
+                               android:layout_height="match_parent"
+                               android:gravity="center_vertical"
+                               android:paddingLeft="10dp"
+                               android:text="个人认证"
+                               android:textColor="@color/dark_gray"
+                               android:textSize="@dimen/text_large" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center_vertical"
-                    android:paddingLeft="10dp"
-                    android:text="个人认证"
-                    android:textColor="@color/dark_gray"
-                    android:textSize="@dimen/text_large" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:layout_weight="1" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:layout_weight="1" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:padding="8dp"
+                               android:src="@drawable/arrow_right_grey" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:padding="8dp"
-                    android:src="@drawable/arrow_right_grey" />
+                       </LinearLayout>
 
-            </LinearLayout>
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="1px"
+                           android:background="@color/label_color" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="1px"
-                android:background="@color/label_color" />
+                       <LinearLayout
+                           android:id="@+id/tab05_ibtn_phone"
+                           android:layout_width="match_parent"
+                           android:layout_height="35dp"
+                           android:background="@drawable/btn_bg_white_rect"
+                           android:orientation="horizontal">
 
-            <LinearLayout
-                android:id="@+id/tab05_ibtn_phone"
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:background="@drawable/btn_bg_white_rect"
-                android:orientation="horizontal">
+                           <TextView
+                               android:layout_width="wrap_content"
+                               android:layout_height="match_parent"
+                               android:gravity="center_vertical"
+                               android:paddingLeft="10dp"
+                               android:text="联系客服"
+                               android:textColor="@color/dark_gray"
+                               android:textSize="@dimen/text_large" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center_vertical"
-                    android:paddingLeft="10dp"
-                    android:text="联系客服"
-                    android:textColor="@color/dark_gray"
-                    android:textSize="@dimen/text_large" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:layout_weight="1" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:layout_weight="1" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:padding="8dp"
+                               android:src="@drawable/arrow_right_grey" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:padding="8dp"
-                    android:src="@drawable/arrow_right_grey" />
+                       </LinearLayout>
 
-            </LinearLayout>
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="1px"
+                           android:background="@color/label_color" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="1px"
-                android:background="@color/label_color" />
+                       <LinearLayout
+                           android:id="@+id/tab05_ibtn_set"
+                           android:layout_width="match_parent"
+                           android:layout_height="35dp"
+                           android:background="@drawable/btn_bg_white_rect"
+                           android:orientation="horizontal">
 
-            <LinearLayout
-                android:id="@+id/tab05_ibtn_set"
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:background="@drawable/btn_bg_white_rect"
-                android:orientation="horizontal">
+                           <TextView
+                               android:layout_width="wrap_content"
+                               android:layout_height="match_parent"
+                               android:gravity="center_vertical"
+                               android:paddingLeft="10dp"
+                               android:text="设  置"
+                               android:textColor="@color/dark_gray"
+                               android:textSize="@dimen/text_large" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center_vertical"
-                    android:paddingLeft="10dp"
-                    android:text="设  置"
-                    android:textColor="@color/dark_gray"
-                    android:textSize="@dimen/text_large" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:layout_weight="1" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:layout_weight="1" />
+                           <ImageView
+                               android:layout_width="30dp"
+                               android:layout_height="30dp"
+                               android:padding="8dp"
+                               android:src="@drawable/arrow_right_grey" />
+                       </LinearLayout>
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="30dp"
-                    android:padding="8dp"
-                    android:src="@drawable/arrow_right_grey" />
-            </LinearLayout>
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:gravity="bottom"
+                           android:text="" />
+                   </LinearLayout>
+               </com.chengmeng.tools.views.SpringScrollView>
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:gravity="bottom"
-                android:text="" />
-        </LinearLayout>
-    </com.chengmeng.tools.views.SpringScrollView>
-
-</LinearLayout>
+           </LinearLayout>

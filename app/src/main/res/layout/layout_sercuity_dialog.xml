@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
-            android:text="高能采用“支付宝担保交易”来保障交易安全"
+            android:text="橙果采用“支付宝担保交易”来保障交易安全"
             android:textColor="@color/white"
             android:textSize="12sp" />
     </LinearLayout>
@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="5dp"
-            android:text="买家点击[预约付款]后，资金会到高能担保的支付宝账户，保证资金安全。"
+            android:text="买家点击[预约付款]后，资金会到橙果保的支付宝账户，保证资金安全。"
             android:textColor="@color/session_through_content"
             android:textSize="12sp" />
     </LinearLayout>

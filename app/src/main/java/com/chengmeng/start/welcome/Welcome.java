@@ -43,10 +43,6 @@ public class Welcome extends NetActivity {
     private String msg = "";
     private boolean need_close = false;
     private int curr_index = 0;
-    private static final int[] imgs = {R.drawable.welcome_01, R.drawable.welcome_02,
-            R.drawable.welcome_03, R.drawable.welcome_04,
-            R.drawable.welcome_05, R.drawable.welcome_06,
-            R.drawable.welcome_07};
 
     @Override
     public void onCreate() {
@@ -87,29 +83,8 @@ public class Welcome extends NetActivity {
         ServerURL.getIP();
     }
 
-    private void loadFirstImg() {
-        need_close = false;
-        curr_index = (int) (Math.random() * imgs.length);
-        img1.setImageResource(imgs[curr_index]);
-    }
 
-    private void loadNextImage() {
-        int index = (int) (Math.random() * imgs.length);
-        while (index == curr_index) {
-            index = (int) (Math.random() * imgs.length);
-        }
-        curr_index = index;
-        img0.setImageResource(imgs[curr_index]);
-        //方式一通过代码的方式定义透明度动画
-        Animation alphaAnimation = new AlphaAnimation((float) 1, (float) 0);
-        alphaAnimation.setDuration(1000);//设置动画持续时间为3秒
-        alphaAnimation.setFillAfter(true);//设置动画结束后保持当前的位置（即不返回到动画开始前的位置）
-        img1.startAnimation(alphaAnimation);
-    }
 
-    private void prepareNextImg() {
-        img1.setImageResource(imgs[curr_index]);
-    }
 
     private boolean isSeriousError() {
         String value = ParamTool.getParam("serious_error");
@@ -213,18 +188,13 @@ public class Welcome extends NetActivity {
 
     @Override
     public void receiveMessage(String what) {
-        if (what == null) {
-            loadNextImage();
-        } else {
-            prepareNextImg();
-        }
     }
 
     @Override
     public void newThread() {
         while (!need_close) {
             try {
-                Thread.sleep(2000);
+                Thread.sleep(1000);
             } catch (Exception e) {
             }
             sendMessage(null);

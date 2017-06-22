@@ -135,10 +135,10 @@ public class MineHomePage extends FragmentActivity implements View.OnClickListen
         //主页下方
         Button btn_service = (Button) findViewById(R.id.mine_homepage_service_btn);
         Button btn_personal = (Button) findViewById(R.id.mine_homepage_personal_btn);
-        Button btn_request = (Button) findViewById(R.id.mine_homepage_request_btn);
+    //    Button btn_request = (Button) findViewById(R.id.mine_homepage_request_btn);
         btn_service.setOnClickListener(this);//加载监听
         btn_personal.setOnClickListener(this);//加载监听
-        btn_request.setOnClickListener(this);//加载监听
+    //    btn_request.setOnClickListener(this);//加载监听
 
         mine_tab = (ImageView) findViewById(R.id.mine_homepage_tab);//滑动条
         mine_viewPager = (ViewPager) findViewById(R.id.mine_homepage_viewpager);//viewpager内容
@@ -172,7 +172,8 @@ public class MineHomePage extends FragmentActivity implements View.OnClickListen
         fragmentList = new ArrayList<>();
         fragmentList.add(new MineService(userId));//服务内容
         fragmentList.add(new MineDynamic(userId, birthday, introduce, sex, location));//个人详情和动态内容
-        fragmentList.add(new MineRequest(userId));//需求内容
+
+        //fragmentList.add(new MineRequest(userId));//需求内容
 
         HomePageAdapter mine_pagerAdapter = new HomePageAdapter(getSupportFragmentManager(), fragmentList);
         mine_viewPager.setAdapter(mine_pagerAdapter);//设置适配器
@@ -209,9 +210,9 @@ public class MineHomePage extends FragmentActivity implements View.OnClickListen
             case R.id.mine_homepage_personal_btn:
                 mine_viewPager.setCurrentItem(1);//跳转个人界面
                 break;
-            case R.id.mine_homepage_request_btn:
-                mine_viewPager.setCurrentItem(2);//跳转需求界面
-                break;
+//            case R.id.mine_homepage_request_btn:
+// //               mine_viewPager.setCurrentItem(2);//跳转需求界面
+//                break;
             case R.id.mine_homepage_threeline:
                 popup.show();
                 break;

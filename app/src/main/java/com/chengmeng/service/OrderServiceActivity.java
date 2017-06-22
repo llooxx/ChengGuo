@@ -52,11 +52,6 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
     private RoundHeadView headView;
     private String headicon_url = "";
 
-    private TextView alipay_name, alipay_id;
-    private String my_alipay_name = "", my_alipay_id = "";
-    private ViewGroup layout1, layout2;
-    private AlertDialog dialog;
-    private EditText editName, editId, editId2;
     private SharedPreferences mySharedPreferences;
     private SharedPreferences.Editor editor;
 
@@ -69,8 +64,6 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
         serviceId = getIntent().getStringExtra("serviceId");
         initView();
         initEvent();
-        initMessage();
-        initDialog();
         GetSetviceContent(OrderServiceActivity.this);
     }
 
@@ -93,12 +86,6 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
         tv_sum = (TextView) this.findViewById(R.id.order_service_tv_Moneysum);
         btn_submit = (Button) this.findViewById(R.id.order_service_btn_submit);
 
-        layout1 = (ViewGroup) this.findViewById(R.id.sell_order_layout1);
-        layout2 = (ViewGroup) this.findViewById(R.id.sell_order_layout2);
-        layout1.setOnClickListener(this);
-        layout2.setOnClickListener(this);
-        alipay_name = (TextView) this.findViewById(R.id.sell_order_name);
-        alipay_id = (TextView) this.findViewById(R.id.sell_order_alipayid);
 
         tv_price.setText(price + "");
         tv_unit.setText(str_unit);
@@ -128,9 +115,7 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
                 finish();
                 break;
             case R.id.order_service_btn_submit:
-                if (alipay_name.getText().toString().isEmpty()) showToast("请填写真实姓名");
-                else if (alipay_id.getText().toString().isEmpty()) showToast("请填写支付宝账号");
-                else if (type == 3) PostOrderToServer();
+                if (type == 3) PostOrderToServer();
                 else if (tv_time.getText().toString().equals("请选择")) showToast("请选择服务时间");
                 else {
                     if (isDialogClicked) {
@@ -159,20 +144,6 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
                     dialog.show();
                     //dialog.setCanceledOnTouchOutside(true);
                 }
-                break;
-            case R.id.sell_order_layout1:
-            case R.id.sell_order_layout2:
-                editId.setText(my_alipay_id);
-                editId2.setText(my_alipay_id);
-                editName.setText(my_alipay_name);
-                dialog.show();
-                break;
-            case R.id.cash_dialog_enter:
-                dialogDealInput();
-                break;
-            case R.id.cash_dialog_cancle:
-                if (dialog != null && dialog.isShowing()) dialog.dismiss();
-                editId.setText("");
                 break;
             default:
                 break;
@@ -310,8 +281,6 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
                         || jsonObject.getString("reward_money").equals("0")
                         || jsonObject.getString("reward_money").equals("0.00")
                         || jsonObject.getString("reward_unit").equals("")) {
-                    layout1.setVisibility(View.GONE);
-                    layout2.setVisibility(View.GONE);
                     btn_submit.setText("预约");
                     str_price = null;
                     tv_price.setVisibility(View.GONE);
@@ -362,58 +331,6 @@ public class OrderServiceActivity extends Activity implements View.OnClickListen
 
     }
 
-    private void initDialog() {
-        LayoutInflater factory = LayoutInflater.from(this);
-        View dialog_view = factory.inflate(R.layout.cash_balance_detail_dialog, null);
-        dialog = new AlertDialog.Builder(this).setView(dialog_view).create();
-        dialog.setCanceledOnTouchOutside(true);
-        dialog_view.findViewById(R.id.cash_dialog_enter).setOnClickListener(this);
-        dialog_view.findViewById(R.id.cash_dialog_cancle).setOnClickListener(this);
-        editName = (EditText) dialog_view.findViewById(R.id.cash_dialog_editname);
-        editId = (EditText) dialog_view.findViewById(R.id.cash_dialog_editid);
-        editId2 = (EditText) dialog_view.findViewById(R.id.cash_dialog_editid2);
-    }
-
-    private void initMessage() {
-        my_alipay_name = mySharedPreferences.getString("alipayname", "");
-        my_alipay_id = mySharedPreferences.getString("alipayid", "");
-        if (!my_alipay_name.equals("") && !my_alipay_id.equals("")) {
-            layout1.setVisibility(View.GONE);
-            layout2.setVisibility(View.VISIBLE);
-        }
-        alipay_name.setText(my_alipay_name);
-        alipay_id.setText(my_alipay_id);
-    }
-
-    private void dialogDealInput() {
-        if (editName.getText().toString().isEmpty()) {
-            showToast("姓名不能为空");
-            return;
-        } else if (editId.getText().toString().isEmpty() || editId2.getText().toString().isEmpty()) {
-            showToast("账号不能为空");
-            return;
-        } else if (editId.getText().toString().equals(editId2.getText().toString()))
-            alipay_id.setText(editId.getText());
-        else {
-            showToast("两次账号输入不一致");
-            return;
-        }
-        my_alipay_name = editName.getText().toString();
-        my_alipay_id = editId.getText().toString();
-        alipay_name.setText(my_alipay_name);
-        alipay_id.setText(my_alipay_id);
-        editor.putString("alipayname", my_alipay_name);
-        editor.putString("alipayid", my_alipay_id);
-        editor.commit();
-        if (alipay_id.getText().toString().equals("")) {
-            layout1.setVisibility(View.VISIBLE);
-            layout2.setVisibility(View.GONE);
-        } else {
-            layout1.setVisibility(View.GONE);
-            layout2.setVisibility(View.VISIBLE);
-        }
-        dialog.dismiss();
-    }
 
     private void showToast(String text) {
         QianxunToast.showToast(this, text, QianxunToast.LENGTH_SHORT);

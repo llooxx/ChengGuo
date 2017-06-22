@@ -192,8 +192,9 @@ public class MainTab_05 extends Fragment implements OnClickListener {
     }
 
     //界面按钮点击(需要验证登录状态)
-    @OnClick({R.id.tab05_ibtn_request_my,
-            R.id.tab05_ibtn_request_ta,
+    @OnClick({
+//            R.id.tab05_ibtn_request_my,
+//            R.id.tab05_ibtn_request_ta,
             R.id.tab05_ibtn_collect_people, R.id.tab05_tv_collect_people,
             R.id.tab05_ibtn_collect, R.id.tab05_tv_collect, R.id.tab05_ibtn_buy,
             R.id.tab05_ibtn_sell, R.id.tab05_tv_sell,
@@ -207,12 +208,12 @@ public class MainTab_05 extends Fragment implements OnClickListener {
         }
         Intent intent = null;
         switch (view.getId()) {
-            case R.id.tab05_ibtn_request_my:
-                intent = new Intent(getActivity(), RequestMy.class);
-                break;
-            case R.id.tab05_ibtn_request_ta:
-                intent = new Intent(getActivity(), RequestTa.class);
-                break;
+//            case R.id.tab05_ibtn_request_my:
+//                intent = new Intent(getActivity(), RequestMy.class);
+//                break;
+//            case R.id.tab05_ibtn_request_ta:
+//                intent = new Intent(getActivity(), RequestTa.class);
+//                break;
             case R.id.tab05_ibtn_collect_people:
             case R.id.tab05_tv_collect_people:
                 intent = new Intent(getActivity(), FriendList.class);

@@ -1,6 +1,7 @@
 package com.chengmeng.sell.orders.sale;
 
 import android.annotation.SuppressLint;
+import android.util.Log;
 import android.widget.BaseAdapter;
 
 import com.alibaba.fastjson.JSONException;
@@ -92,6 +93,7 @@ public class SaleFinishFragment extends SellAllOrderFragment {
             try {
                 if (page == 1) finishItems.clear();
                 SellAllOrderBuy.Analysis(getActivity(), response, finishItems);
+                Log.i("responseresponse",response);
             } catch (JSONException e) {
                 e.printStackTrace();
             }

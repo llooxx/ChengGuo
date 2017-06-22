@@ -74,7 +74,7 @@ public class MainTabAdd extends Activity implements OnClickListener {
             case R.id.tab_add_btn_sell2:
                 startMyActivity(PostServiceActivity.class);
                 break;
-            case R.id.tab_add_btn_show:
+            case R.id.tab_add_btn_show2:
                 startMyActivity(PostDynamic.class);
                 break;
             case R.id.tab_add_btn_cancel:

@@ -298,7 +298,7 @@
                         android:text="个人"
                         android:textColor="@color/dark_gray"
                         android:textSize="16sp" />
-
+<!--
                     <Button
                         android:id="@+id/mine_homepage_request_btn"
                         android:layout_width="60dp"
@@ -307,6 +307,7 @@
                         android:text="需求"
                         android:textColor="@color/dark_gray"
                         android:textSize="16sp" />
+                        -->
                 </LinearLayout>
             </LinearLayout>
 

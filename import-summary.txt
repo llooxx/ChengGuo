@@ -1,0 +1,86 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .amateras
+* ic_launcher-web.png
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\aliwukong_1.jar => app\libs\aliwukong_1.jar
+* libs\aliwukong_2.jar => app\libs\aliwukong_2.jar
+* libs\armeabi\libapp_BaiduNaviApplib.so => app\src\main\jniLibs\armeabi\libapp_BaiduNaviApplib.so
+* libs\armeabi\libapp_BaiduPanoramaAppLib.so => app\src\main\jniLibs\armeabi\libapp_BaiduPanoramaAppLib.so
+* libs\armeabi\libapp_BaiduVIlib.so => app\src\main\jniLibs\armeabi\libapp_BaiduVIlib.so
+* libs\armeabi\libBaiduMapSDK_base_v3_6_0.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_base_v3_6_0.so
+* libs\armeabi\libBaiduMapSDK_cloud_v3_6_0.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_cloud_v3_6_0.so
+* libs\armeabi\libBaiduMapSDK_map_v3_6_0.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_map_v3_6_0.so
+* libs\armeabi\libBaiduMapSDK_radar_v3_6_0.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_radar_v3_6_0.so
+* libs\armeabi\libBaiduMapSDK_search_v3_6_0.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_search_v3_6_0.so
+* libs\armeabi\libBaiduMapSDK_util_v3_6_0.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_util_v3_6_0.so
+* libs\armeabi\libBaiduMapSDK_v3_4_0_15.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_v3_4_0_15.so
+* libs\armeabi\libbd_etts.so => app\src\main\jniLibs\armeabi\libbd_etts.so
+* libs\armeabi\libbds.so => app\src\main\jniLibs\armeabi\libbds.so
+* libs\armeabi\libBDSpeechDecoder_V1.so => app\src\main\jniLibs\armeabi\libBDSpeechDecoder_V1.so
+* libs\armeabi\libbspatch.so => app\src\main\jniLibs\armeabi\libbspatch.so
+* libs\armeabi\libcocklogic.so => app\src\main\jniLibs\armeabi\libcocklogic.so
+* libs\armeabi\libcurl.so => app\src\main\jniLibs\armeabi\libcurl.so
+* libs\armeabi\libdatabase_sqlcrypto.so => app\src\main\jniLibs\armeabi\libdatabase_sqlcrypto.so
+* libs\armeabi\libgnustl_shared.so => app\src\main\jniLibs\armeabi\libgnustl_shared.so
+* libs\armeabi\liblocSDK6a.so => app\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\armeabi\libmemchunk.so => app\src\main\jniLibs\armeabi\libmemchunk.so
+* libs\armeabi\libtnet-2.0.17-agoo.so => app\src\main\jniLibs\armeabi\libtnet-2.0.17-agoo.so
+* libs\armeabi\libumeng_opustool.so => app\src\main\jniLibs\armeabi\libumeng_opustool.so
+* libs\auth_push_2.2.3.jar => app\libs\auth_push_2.2.3.jar
+* libs\BaiduLBS_Android.jar => app\libs\BaiduLBS_Android.jar
+* libs\fastjson-1.2.6.jar => app\libs\fastjson-1.2.6.jar
+* libs\httpmime-4.1.2.jar => app\libs\httpmime-4.1.2.jar
+* libs\IndoorscapeAlbumPlugin.jar => app\libs\IndoorscapeAlbumPlugin.jar
+* libs\MobCommons.jar => app\libs\MobCommons.jar
+* libs\MobTools.jar => app\libs\MobTools.jar
+* libs\nineoldandroids-2.4.0.jar => app\libs\nineoldandroids-2.4.0.jar
+* libs\SMSSDK-2.0.1.jar => app\libs\SMSSDK-2.0.1.jar
+* libs\umeng-analytics-v5.6.4.jar => app\libs\umeng-analytics-v5.6.4.jar
+* libs\umeng-fb-v5.4.0.jar => app\libs\umeng-fb-v5.4.0.jar
+* libs\umeng-message-v2.3.0.jar => app\libs\umeng-message-v2.3.0.jar
+* libs\umeng-onlineconfig-v1.0.0.jar => app\libs\umeng-onlineconfig-v1.0.0.jar
+* libs\umeng-update-v2.6.0.1.jar => app\libs\umeng-update-v2.6.0.1.jar
+* libs\x86\libcocklogic.so => app\src\main\jniLibs\x86\libcocklogic.so
+* libs\x86\libmemchunk.so => app\src\main\jniLibs\x86\libmemchunk.so
+* libs\x86\libtnet-2.0.17-agoo.so => app\src\main\jniLibs\x86\libtnet-2.0.17-agoo.so
+* libs\x86\libumeng_opustool.so => app\src\main\jniLibs\x86\libumeng_opustool.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\android\support\v4\media\MediaMetadataCompat.aidl => app\src\main\aidl\android\support\v4\media\MediaMetadataCompat.aidl
+* src\android\support\v4\media\RatingCompat.aidl => app\src\main\aidl\android\support\v4\media\RatingCompat.aidl
+* src\android\support\v4\media\session\IMediaControllerCallback.aidl => app\src\main\aidl\android\support\v4\media\session\IMediaControllerCallback.aidl
+* src\android\support\v4\media\session\IMediaSession.aidl => app\src\main\aidl\android\support\v4\media\session\IMediaSession.aidl
+* src\android\support\v4\media\session\MediaSessionCompat.aidl => app\src\main\aidl\android\support\v4\media\session\MediaSessionCompat.aidl
+* src\android\support\v4\media\session\ParcelableVolumeInfo.aidl => app\src\main\aidl\android\support\v4\media\session\ParcelableVolumeInfo.aidl
+* src\android\support\v4\media\session\PlaybackStateCompat.aidl => app\src\main\aidl\android\support\v4\media\session\PlaybackStateCompat.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
