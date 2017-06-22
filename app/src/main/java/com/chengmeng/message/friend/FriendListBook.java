@@ -43,6 +43,7 @@ public class FriendListBook extends NetTActivity {
 	private boolean need_finish = false;
 	private boolean is_dealing = false;// 是否正在处理信息
 
+
 	@Override
 	public void onCreate() {
 		setContentView(R.layout.msg_friend_list_book);

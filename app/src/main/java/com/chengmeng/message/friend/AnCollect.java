@@ -8,6 +8,7 @@ public class AnCollect {
     private String nickName;
     private long username;
 
+
     public String getHeadIcon() {
         return headIcon;
     }

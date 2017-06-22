@@ -30,6 +30,7 @@ public class FriendList extends NetTActivity {
     private TextView text;
     private boolean is_collected = false;//是否为收藏模式
 
+
     @Override
     public void onCreate() {
         setContentView(R.layout.msg_friend_list);

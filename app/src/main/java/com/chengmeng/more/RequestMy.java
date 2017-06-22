@@ -31,6 +31,7 @@ public class RequestMy extends FragmentTActivity {
     private ViewPager viewPager;
     private PagerSlidingTabStrip pagerSlidingTabStrip;
 
+
     @Override
     public void onCreate() {
         setContentView(R.layout.more_request_my);

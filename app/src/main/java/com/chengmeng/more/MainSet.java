@@ -34,6 +34,7 @@ public class MainSet extends TActivity implements View.OnClickListener {
     private ToggleButton tbtn_msg_voice, tbtn_msg_verb, tbtn_push_collect;
     private int font_index = 0;
 
+
     @Override
     public void onCreate() {
         setContentView(R.layout.main_set);

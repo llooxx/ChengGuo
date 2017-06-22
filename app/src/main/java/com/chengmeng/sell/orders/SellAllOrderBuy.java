@@ -35,6 +35,7 @@ public class SellAllOrderBuy extends FragmentTActivity {
         setContentView(R.layout.sell_all_order_buy);
         setTitle("已购买的服务");
         showBackButton();
+
         // ((TextView) findViewById(R.id.common_top_title)).setText("已购买的服务");
         initActionBar(getResources().getColor(R.color.topbar_bg));
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);

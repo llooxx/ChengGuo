@@ -98,7 +98,7 @@ public class SellMainTop implements View.OnClickListener {
                         titles[i] = json_item.getString("title");
                         String text = json_item.getString("context");
                         links[i] = json_item.getString("link");
-                        StaticMethod.UBITMAP(ServerURL.getIP() + url, img[i]);
+//                        StaticMethod.UBITMAP(ServerURL.getIP() + url, img[i]);
                         title_tv[i].setText(titles[i]);
                         text_tv[i].setText(text);
                     }
@@ -158,21 +158,21 @@ public class SellMainTop implements View.OnClickListener {
                     JSONArray jsonArray = jsonObject.getJSONArray("list");
                     List<View> views = new ArrayList<>();
                     JSONObject json_item;
-                    for (int i = -1; i < jsonArray.length() + 1; i++) {
-                        int ii = i;
-                        if (i == -1) ii = jsonArray.length() - 1;
-                        else if (i == jsonArray.length()) ii = 0;
-                        json_item = jsonArray.getJSONObject(ii);
-                        String url = json_item.getString("image");
-                        String title = json_item.getString("title");
-                        String link = json_item.getString("link");
-                        if (url == null) continue;
-                        views.add(getImageView(url, title, link));
-                    }
+//                    for (int i = -1; i < jsonArray.length() + 1; i++) {
+//                        int ii = i;
+//                        if (i == -1) ii = jsonArray.length() - 1;
+//                        else if (i == jsonArray.length()) ii = 0;
+//                        json_item = jsonArray.getJSONObject(ii);
+//                        String url = json_item.getString("image");
+//                        String title = json_item.getString("title");
+//                        String link = json_item.getString("link");
+//                        if (url == null) continue;
+//                        views.add(getImageView(url, title, link));
+//                    }
                     if (views.size() == 0) {
-                        views.add(getImageView(R.drawable.icon_img_load_fail, null, null));
-                        views.add(getImageView(R.drawable.icon_img_load_fail, null, null));
-                        views.add(getImageView(R.drawable.icon_img_load_fail, null, null));
+                        views.add(getImageView(R.drawable.icon_top_next_1, null, null));
+                        views.add(getImageView(R.drawable.icon_top_next_2, null, null));
+                        views.add(getImageView(R.drawable.icon_top_next_3, null, null));
                     }
                     topScroller.setViews(views);//设置view
                     //圆点的初始化

@@ -11,7 +11,7 @@ public class ServerURL {
     private static final boolean IS_TEST_MODE = true;// 是否为测试模式
     private static final boolean IS_SERVER_MODE = false;// 是否为后台测试模式
     private static final boolean IS_DISENABLE_MANAGER = false;// 是否禁用管理员
-    private static final String SERVER_IP = "http://192.168.1.106:8080";
+    private static final String SERVER_IP = "http://123.206.201.201";
     //服务器IP地址http://121.42.157.195:8080//new : http://120.27.25.61/
     private static String DYNAMIC_SERVER_IP = null;
 

@@ -29,6 +29,7 @@ public class SellMainTopAdapter extends PagerAdapter {
         views.add(getGrideView(context, 1));
     }
 
+
     @Override
     public int getCount() {
         return views.size();
